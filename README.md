@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0605-can-place-flowers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0605-can-place-flowers) |
 | [2058-concatenation-of-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
