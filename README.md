@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [2058-concatenation-of-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
