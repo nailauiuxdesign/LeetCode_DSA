@@ -1,5 +1,5 @@
 <h2><a href="https://leetcode.com/problems/search-a-2d-matrix">74. Search a 2D Matrix</a></h2>
-<img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Medium' /><hr>
+<img src='https://img.shields.io/badge/Difficulty-Medium-brightgreen' alt='Difficulty: Medium' /><hr>
 <p>You are given an <code>m x n</code> integer matrix <code>matrix</code> with the following two properties:</p>
 
 <ul>
