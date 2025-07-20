@@ -1,8 +1,6 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        n = len(s)          # Get the length of the string
-        l = 0               # Left pointer starting from the beginning
-        r = n - 1           # Right pointer starting from the end
+        l, r = 0, len(s) - 1           # Left pointer starting from 0, Right pointer starting from the end
 
         while l < r:        # Loop until the pointers meet
             if not s[r].isalnum():   # Skip non-alphanumeric characters on the left
