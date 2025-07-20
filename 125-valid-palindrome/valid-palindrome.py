@@ -1,5 +1,6 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
+        s = s.lower()
         l, r = 0, len(s) - 1           # Left pointer starting from 0, Right pointer starting from the end
 
         while l < r:        # Loop until the pointers meet
@@ -11,7 +12,7 @@ class Solution:
                 l += 1
                 continue
 
-            if s[r].lower() != s[l].lower():  # Compare characters in a case-insensitive manner
+            if s[r] != s[l]:  # Compare characters in a case-insensitive manner
                 return False                  # If mismatch, it's not a palindrome
 
             r -= 1    # Move right pointer to the left
