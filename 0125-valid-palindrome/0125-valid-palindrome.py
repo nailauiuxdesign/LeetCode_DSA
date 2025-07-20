@@ -21,5 +21,6 @@ class Solution:
         return True   # All characters matched; it's a palindrome
 
 
+
         # Time O(n)
         # Space O(1)
