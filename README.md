@@ -2,9 +2,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeatCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/nailasadia?theme=light)
-|  |
+
 | ------- |
-# LeetCode Topics
+# Topics
 ## Hash Table
 |  |
 | ------- |
