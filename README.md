@@ -3,7 +3,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # LeatCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/nailasadia?theme=light)
 
-| ------- |
 # Topics
 ## Hash Table
 |  |
