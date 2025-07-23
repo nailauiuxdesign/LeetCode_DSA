@@ -14,5 +14,6 @@ class Solution:
 
         return longest # Return the longest substring length
 
+
 # Time Complexity: O(n)
 # Space Complexity: O(n)
