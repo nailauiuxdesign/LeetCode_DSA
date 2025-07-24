@@ -6,6 +6,7 @@
 <p>You can return the answer in any order.</p>
 
 <p>&nbsp;</p>
+
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
