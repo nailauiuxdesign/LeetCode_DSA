@@ -7,9 +7,9 @@
 <div class="example-block">
 <p><strong>Input:</strong> <span class="example-io">s = [&quot;abcabcbb&quot;]</span></p>
 
-<p><strong>Output:</strong> <span class="example-io">[1]</span></p>
+<p><strong>Output:</strong> <span class="example-io">[3]</span></p>
 
-<p><strong>Explanation:</strong> <span class="example-io">[The answer is &quot;b&quot;, with the length of 1.]</span></p>
+<p><strong>Explanation:</strong> <span class="example-io">The answer is &quot;b&quot;, with the length of 1.</span></p>
 </div>
 <p><strong class="example">Example 2:</strong></p>
 <div class="example-block">
@@ -34,7 +34,6 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= strs.length &lt;= 10<sup>4</sup></code></li>
-	<li><code>0 &lt;= strs[i].length &lt;= 100</code></li>
-	<li><code>strs[i]</code> consists of lowercase English letters.</li>
+	<li><code>1 &lt;= s.length &lt;= 5 * 10<sup>4</sup></code></li>
+	<li><code>s[i]</code> consists of English letters, digits, symbols and spaces.</li>
 </ul>
