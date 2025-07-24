@@ -3,11 +3,13 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        l = 0
+        l = 0  # Pointer to track position for the next non-zero element
 
-        for r in range(len(nums)):
-            if nums[r]:
-                nums[l], nums[r] = nums[r], nums[l]
-                l += 1
+        # Traverse the list with right pointer
+        for r, value in enumerate(nums):
+            if value != 0:
+                nums[l], nums[r] = nums[r], nums[l]  # Swap non-zero to the front
+                l += 1  # Move left pointer to next position
 
-        #return nums
+        return nums  # Modified list with all non-zeros moved to the front
+
