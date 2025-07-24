@@ -9,7 +9,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">[3]</span></p>
 
-<p><strong>Explanation:</strong> <span class="example-io">The answer is &quot;b&quot;, with the length of 1.</span></p>
+<p><strong>Explanation:</strong> <span class="example-io">The answer is &quot;b&quot;, with the length of 3.</span></p>
 </div>
 <p><strong class="example">Example 2:</strong></p>
 <div class="example-block">
