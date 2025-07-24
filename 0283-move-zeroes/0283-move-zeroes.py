@@ -3,6 +3,7 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
+        
         l = 0  # Pointer to track position for the next non-zero element
 
         # Traverse the list with right pointer
