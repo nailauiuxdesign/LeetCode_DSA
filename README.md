@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [605-can-place-flowers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0605-can-place-flowers) |
 | [1813-maximum-erasure-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2058-concatenation-of-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2058-concatenation-of-array) |
+| [2350-find-closest-number-to-zero](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Simulation
 |  |
 | ------- |
