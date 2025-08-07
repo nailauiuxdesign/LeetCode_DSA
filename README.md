@@ -9,7 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0049-group-anagrams) |
 | [242-valid-anagram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0242-valid-anagram) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
-| [1813-maximum-erasure-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1695-maximum-erasure-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1695-maximum-erasure-value) |
 ## String
 |  |
 | ------- |
@@ -36,7 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [605-can-place-flowers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0605-can-place-flowers) |
-| [1813-maximum-erasure-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1695-maximum-erasure-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1695-maximum-erasure-value) |
 | [2058-concatenation-of-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2058-concatenation-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Simulation
@@ -82,5 +82,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3-longest-substring-without-repeating-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
-| [1813-maximum-erasure-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1695-maximum-erasure-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1695-maximum-erasure-value) |
 <!---LeetCode Topics End-->
