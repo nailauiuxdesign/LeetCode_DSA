@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
 | [125-valid-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/125-valid-palindrome) |
 | [242-valid-anagram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/242-valid-anagram) |
+| [1205-defanging-an-ip-address](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1205-defanging-an-ip-address) |
 ## Sorting
 |  |
 | ------- |
