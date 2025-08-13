@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
 | [605-can-place-flowers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/605-can-place-flowers) |
 | [643-maximum-average-subarray-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/643-maximum-average-subarray-i) |
+| [0792-binary-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0792-binary-search) |
 | [1695-maximum-erasure-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1695-maximum-erasure-value) |
 | [2058-concatenation-of-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2058-concatenation-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2350-find-closest-number-to-zero) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [35-search-insert-position](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/35-search-insert-position) |
 | [74-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/74-search-a-2d-matrix) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0792-binary-search) |
 ## Matrix
 |  |
 | ------- |
