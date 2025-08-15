@@ -13,7 +13,6 @@
 <p><img alt="" src="https://assets.leetcode.com/uploads/2024/08/29/screenshot-2024-08-29-202743.png" style="width: 200px; height: 264px;" /></p>
 </div>
 
-
 <p><strong class="example">Example 2:</strong></p>
 
 <div class="example-block">
