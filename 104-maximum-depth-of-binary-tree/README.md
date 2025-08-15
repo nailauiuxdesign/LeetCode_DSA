@@ -10,6 +10,7 @@
 <strong>Output:</strong> 3
 </pre>
 
+
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
