@@ -7,9 +7,9 @@ A collection of LeetCode questions to ace the coding interview!
 | [1-two-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1-two-sum) |
 | [3-longest-substring-without-repeating-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3-longest-substring-without-repeating-characters) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
-| [0217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0217-contains-duplicate) |
+| [217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/217-contains-duplicate) |
 | [242-valid-anagram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/242-valid-anagram) |
-| [0347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
 | [1695-maximum-erasure-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1695-maximum-erasure-value) |
 ## String
@@ -26,9 +26,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
-| [0217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0217-contains-duplicate) |
+| [217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/217-contains-duplicate) |
 | [242-valid-anagram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/242-valid-anagram) |
-| [0347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
 ## Array
 |  |
@@ -36,13 +36,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [1-two-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1-two-sum) |
 | [26-remove-duplicates-from-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/26-remove-duplicates-from-sorted-array) |
 | [35-search-insert-position](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/35-search-insert-position) |
-| [0035-search-insert-position](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0035-search-insert-position) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
 | [74-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/74-search-a-2d-matrix) |
 | [121-best-time-to-buy-and-sell-stock](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/121-best-time-to-buy-and-sell-stock) |
-| [0217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0217-contains-duplicate) |
+| [217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/217-contains-duplicate) |
 | [283-move-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/283-move-zeroes) |
-| [0347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
 | [605-can-place-flowers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/605-can-place-flowers) |
 | [643-maximum-average-subarray-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/643-maximum-average-subarray-i) |
@@ -68,7 +67,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [35-search-insert-position](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/35-search-insert-position) |
-| [0035-search-insert-position](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0035-search-insert-position) |
 | [74-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/74-search-a-2d-matrix) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
 | [704-binary-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/704-binary-search) |
@@ -107,37 +105,33 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [144-binary-tree-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/144-binary-tree-preorder-traversal) |
-| [0144-binary-tree-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [145-binary-tree-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
-| [0104-maximum-depth-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [104-maximum-depth-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/104-maximum-depth-of-binary-tree) |
 | [144-binary-tree-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/144-binary-tree-preorder-traversal) |
-| [0144-binary-tree-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [145-binary-tree-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/145-binary-tree-postorder-traversal) |
-| [0226-invert-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0226-invert-binary-tree) |
+| [226-invert-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
-| [0104-maximum-depth-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [104-maximum-depth-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/104-maximum-depth-of-binary-tree) |
 | [144-binary-tree-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/144-binary-tree-preorder-traversal) |
-| [0144-binary-tree-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [145-binary-tree-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/145-binary-tree-postorder-traversal) |
-| [0226-invert-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0226-invert-binary-tree) |
+| [226-invert-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
-| [0104-maximum-depth-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [104-maximum-depth-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/104-maximum-depth-of-binary-tree) |
 | [144-binary-tree-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/144-binary-tree-preorder-traversal) |
-| [0144-binary-tree-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [145-binary-tree-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/145-binary-tree-postorder-traversal) |
-| [0226-invert-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0226-invert-binary-tree) |
+| [226-invert-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
-| [0104-maximum-depth-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0226-invert-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0226-invert-binary-tree) |
+| [104-maximum-depth-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/104-maximum-depth-of-binary-tree) |
+| [226-invert-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/226-invert-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -149,21 +143,21 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
-| [0347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
-| [0347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
 | ------- |
-| [0347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
-| [0347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
-| [0347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
