@@ -17,7 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3-longest-substring-without-repeating-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3-longest-substring-without-repeating-characters) |
-| [0014-longest-common-prefix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0014-longest-common-prefix) |
+| [14-longest-common-prefix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/14-longest-common-prefix) |
 | [28-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/28-find-the-index-of-the-first-occurrence-in-a-string) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
@@ -37,7 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1-two-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1-two-sum) |
-| [0014-longest-common-prefix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0014-longest-common-prefix) |
+| [14-longest-common-prefix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/14-longest-common-prefix) |
 | [26-remove-duplicates-from-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/26-remove-duplicates-from-sorted-array) |
 | [35-search-insert-position](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/35-search-insert-position) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
@@ -169,5 +169,5 @@ A collection of LeetCode questions to ace the coding interview!
 ## Trie
 |  |
 | ------- |
-| [0014-longest-common-prefix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0014-longest-common-prefix) |
+| [14-longest-common-prefix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/14-longest-common-prefix) |
 <!---LeetCode Topics End-->
