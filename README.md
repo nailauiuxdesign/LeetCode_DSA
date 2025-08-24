@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [144-binary-tree-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/144-binary-tree-preorder-traversal) |
 | [145-binary-tree-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0155-min-stack) |
 ## Tree
 |  |
 | ------- |
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [14-longest-common-prefix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/14-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
