@@ -1,5 +1,4 @@
 class MinStack:
-
     def __init__(self):
         self.stack = []        # Main stack to store values
         self.minstack = []     # Min stack to track minimums at each state
