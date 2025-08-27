@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [242-valid-anagram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/242-valid-anagram) |
 | [1108-defanging-an-ip-address](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3567-convert-date-to-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
 | [1013-fibonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1013-fibonacci-number) |
+| [3567-convert-date-to-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Bit Manipulation
 |  |
 | ------- |
