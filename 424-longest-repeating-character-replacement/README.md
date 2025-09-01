@@ -5,6 +5,7 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
+
 <pre>
 <strong>Input:</strong> s = &quot;ABAB&quot;, k = 2
 <strong>Output:</strong> 4
