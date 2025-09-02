@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0100-same-tree) |
 | [104-maximum-depth-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/104-maximum-depth-of-binary-tree) |
 | [144-binary-tree-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/144-binary-tree-preorder-traversal) |
 | [145-binary-tree-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/145-binary-tree-postorder-traversal) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0100-same-tree) |
 | [104-maximum-depth-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/104-maximum-depth-of-binary-tree) |
 | [144-binary-tree-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/144-binary-tree-preorder-traversal) |
 | [145-binary-tree-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/145-binary-tree-postorder-traversal) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0100-same-tree) |
 | [104-maximum-depth-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/104-maximum-depth-of-binary-tree) |
 | [144-binary-tree-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/144-binary-tree-preorder-traversal) |
 | [145-binary-tree-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/145-binary-tree-postorder-traversal) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0100-same-tree) |
 | [104-maximum-depth-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/104-maximum-depth-of-binary-tree) |
 | [226-invert-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/226-invert-binary-tree) |
 ## Recursion
