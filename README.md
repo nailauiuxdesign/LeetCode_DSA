@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [74-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/74-search-a-2d-matrix) |
 | [121-best-time-to-buy-and-sell-stock](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/121-best-time-to-buy-and-sell-stock) |
 | [128-longest-consecutive-sequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/217-contains-duplicate) |
 | [238-product-of-array-except-self](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/238-product-of-array-except-self) |
 | [283-move-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/283-move-zeroes) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [35-search-insert-position](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/35-search-insert-position) |
 | [74-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/74-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
 | [704-binary-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/704-binary-search) |
 ## Matrix
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [26-remove-duplicates-from-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/26-remove-duplicates-from-sorted-array) |
 | [28-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/28-find-the-index-of-the-first-occurrence-in-a-string) |
 | [125-valid-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [283-move-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/283-move-zeroes) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
 ## String Matching
