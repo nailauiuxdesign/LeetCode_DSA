@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [144-binary-tree-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/144-binary-tree-preorder-traversal) |
 | [145-binary-tree-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/145-binary-tree-postorder-traversal) |
 | [226-invert-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [144-binary-tree-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/144-binary-tree-preorder-traversal) |
 | [145-binary-tree-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/145-binary-tree-postorder-traversal) |
 | [226-invert-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [144-binary-tree-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/144-binary-tree-preorder-traversal) |
 | [145-binary-tree-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/145-binary-tree-postorder-traversal) |
 | [226-invert-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -216,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0206-reverse-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
