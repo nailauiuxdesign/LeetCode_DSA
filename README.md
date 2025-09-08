@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [21-merge-two-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/21-merge-two-sorted-lists) |
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
 | [206-reverse-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/206-reverse-linked-list) |
+| [0206-reverse-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [21-merge-two-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/21-merge-two-sorted-lists) |
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
 | [206-reverse-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/206-reverse-linked-list) |
+| [0206-reverse-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0206-reverse-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
