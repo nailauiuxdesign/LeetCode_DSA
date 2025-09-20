@@ -9,6 +9,28 @@
 
 <p><strong class="example">Example 1:</strong></p>
 
+
+
+
+
+graph TD;
+    TAM["<b>TAM (Total Addressable Market)</b><br/>Global Podcasting Market<br/><i>$100B by 2028</i>"];
+    SAM["<b>SAM (Serviceable Available Market)</b><br/>Podcasters Seeking Expansion<br/><i>$10B</i>"];
+    SOM["<b>SOM (Service Obtainable Market)</b><br/>Initial Target Niche<br/><i>$1M in Year 1</i>"];
+
+    TAM --> SAM;
+    SAM --> SOM;
+
+    style TAM fill:#2E4053,stroke:#fff,stroke-width:2px,color:#fff
+    style SAM fill:#5D6D7E,stroke:#fff,stroke-width:2px,color:#fff
+    style SOM fill:#85929E,stroke:#fff,stroke-width:2px,color:#fff
+
+
+
+
+
+
+
 <pre>
 <strong>Input:</strong> nums = [2,7,11,15], target = 9
 <strong>Output:</strong> [0,1]
