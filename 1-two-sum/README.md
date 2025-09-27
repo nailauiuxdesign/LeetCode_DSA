@@ -10,9 +10,6 @@
 <p><strong class="example">Example 1:</strong></p>
 
 
-
-
-
 graph TD;
     TAM["<b>TAM (Total Addressable Market)</b><br/>Global Podcasting Market<br/><i>$100B by 2028</i>"];
     SAM["<b>SAM (Serviceable Available Market)</b><br/>Podcasters Seeking Expansion<br/><i>$10B</i>"];
