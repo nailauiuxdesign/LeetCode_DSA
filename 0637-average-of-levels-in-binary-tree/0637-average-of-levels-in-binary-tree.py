@@ -8,8 +8,8 @@ from collections import deque
 class Solution:
     def averageOfLevels(self, root: Optional[TreeNode]) -> List[float]:
         avg = []
-        que = deque([root])
-        #que.append(root)
+        que = deque()
+        que.append(root)
  
         while que:
             level_sum = 0
