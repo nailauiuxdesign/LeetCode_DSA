@@ -268,7 +268,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [86-partition-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/86-partition-list) |
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
 | [206-reverse-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/206-reverse-linked-list) |
-| [206-reverse-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/206-reverse-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
