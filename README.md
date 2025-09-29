@@ -8,7 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3-longest-substring-without-repeating-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3-longest-substring-without-repeating-characters) |
 | [36-valid-sudoku](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/36-valid-sudoku) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [128-longest-consecutive-sequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/128-longest-consecutive-sequence) |
 | [217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/217-contains-duplicate) |
 | [242-valid-anagram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/242-valid-anagram) |
@@ -23,13 +23,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3-longest-substring-without-repeating-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3-longest-substring-without-repeating-characters) |
 | [14-longest-common-prefix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/14-longest-common-prefix) |
-| [0020-valid-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0020-valid-parentheses) |
+| [20-valid-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/20-valid-parentheses) |
 | [28-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/28-find-the-index-of-the-first-occurrence-in-a-string) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
 | [125-valid-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/125-valid-palindrome) |
 | [242-valid-anagram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/242-valid-anagram) |
-| [0345-reverse-vowels-of-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [345-reverse-vowels-of-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/345-reverse-vowels-of-a-string) |
 | [424-longest-repeating-character-replacement](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/424-longest-repeating-character-replacement) |
 | [1108-defanging-an-ip-address](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1297-maximum-number-of-balloons](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1297-maximum-number-of-balloons) |
@@ -56,11 +56,11 @@ A collection of LeetCode questions to ace the coding interview!
 | [36-valid-sudoku](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/36-valid-sudoku) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
 | [74-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/74-search-a-2d-matrix) |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [121-best-time-to-buy-and-sell-stock](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/121-best-time-to-buy-and-sell-stock) |
 | [128-longest-consecutive-sequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/128-longest-consecutive-sequence) |
 | [167-two-sum-ii-input-array-is-sorted](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/167-two-sum-ii-input-array-is-sorted) |
-| [0200-number-of-islands](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0200-number-of-islands) |
+| [200-number-of-islands](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/200-number-of-islands) |
 | [217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/217-contains-duplicate) |
 | [238-product-of-array-except-self](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/238-product-of-array-except-self) |
 | [283-move-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/283-move-zeroes) |
@@ -102,7 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [36-valid-sudoku](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/36-valid-sudoku) |
 | [74-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/74-search-a-2d-matrix) |
-| [0200-number-of-islands](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0200-number-of-islands) |
+| [200-number-of-islands](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/200-number-of-islands) |
 ## Greedy
 |  |
 | ------- |
@@ -113,19 +113,19 @@ A collection of LeetCode questions to ace the coding interview!
 | [15-3sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/15-3sum) |
 | [26-remove-duplicates-from-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/26-remove-duplicates-from-sorted-array) |
 | [28-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/28-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0086-partition-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0086-partition-list) |
+| [86-partition-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/86-partition-list) |
 | [125-valid-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/125-valid-palindrome) |
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
 | [167-two-sum-ii-input-array-is-sorted](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/167-two-sum-ii-input-array-is-sorted) |
 | [283-move-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/283-move-zeroes) |
-| [0345-reverse-vowels-of-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [345-reverse-vowels-of-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/345-reverse-vowels-of-a-string) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## String Matching
 |  |
 | ------- |
 | [28-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/28-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0572-subtree-of-another-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [572-subtree-of-another-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/572-subtree-of-another-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -142,7 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
-| [0020-valid-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0020-valid-parentheses) |
+| [20-valid-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/20-valid-parentheses) |
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
 | [144-binary-tree-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/144-binary-tree-preorder-traversal) |
 | [145-binary-tree-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/145-binary-tree-postorder-traversal) |
@@ -151,72 +151,71 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [100-same-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/100-same-tree) |
-| [0102-binary-tree-level-order-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [102-binary-tree-level-order-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/102-binary-tree-level-order-traversal) |
 | [104-maximum-depth-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/104-maximum-depth-of-binary-tree) |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
-| [0110-balanced-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0110-balanced-binary-tree) |
+| [105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [110-balanced-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/110-balanced-binary-tree) |
 | [144-binary-tree-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/144-binary-tree-preorder-traversal) |
 | [145-binary-tree-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/145-binary-tree-postorder-traversal) |
-| [0199-binary-tree-right-side-view](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [199-binary-tree-right-side-view](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/199-binary-tree-right-side-view) |
 | [226-invert-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/226-invert-binary-tree) |
-| [0230-kth-smallest-element-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [230-kth-smallest-element-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/230-kth-smallest-element-in-a-bst) |
 | [235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/235-lowest-common-ancestor-of-a-binary-search-tree) |
-| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
-| [0543-diameter-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0543-diameter-of-binary-tree) |
-| [0572-subtree-of-another-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0572-subtree-of-another-tree) |
-| [0637-average-of-levels-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/236-lowest-common-ancestor-of-a-binary-tree) |
+| [543-diameter-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/543-diameter-of-binary-tree) |
+| [572-subtree-of-another-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/572-subtree-of-another-tree) |
+| [637-average-of-levels-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [100-same-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/100-same-tree) |
 | [104-maximum-depth-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/104-maximum-depth-of-binary-tree) |
-| [0110-balanced-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0110-balanced-binary-tree) |
+| [110-balanced-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/110-balanced-binary-tree) |
 | [144-binary-tree-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/144-binary-tree-preorder-traversal) |
 | [145-binary-tree-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/145-binary-tree-postorder-traversal) |
-| [0199-binary-tree-right-side-view](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0199-binary-tree-right-side-view) |
-| [0200-number-of-islands](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0200-number-of-islands) |
+| [199-binary-tree-right-side-view](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/199-binary-tree-right-side-view) |
+| [200-number-of-islands](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/200-number-of-islands) |
 | [226-invert-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/226-invert-binary-tree) |
-| [0230-kth-smallest-element-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [230-kth-smallest-element-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/230-kth-smallest-element-in-a-bst) |
 | [235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/235-lowest-common-ancestor-of-a-binary-search-tree) |
-| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
-| [0543-diameter-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0543-diameter-of-binary-tree) |
-| [0572-subtree-of-another-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0572-subtree-of-another-tree) |
-| [0637-average-of-levels-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/236-lowest-common-ancestor-of-a-binary-tree) |
+| [543-diameter-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/543-diameter-of-binary-tree) |
+| [572-subtree-of-another-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/572-subtree-of-another-tree) |
+| [637-average-of-levels-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [100-same-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/100-same-tree) |
-| [0102-binary-tree-level-order-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [102-binary-tree-level-order-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/102-binary-tree-level-order-traversal) |
 | [104-maximum-depth-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/104-maximum-depth-of-binary-tree) |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
-| [0110-balanced-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0110-balanced-binary-tree) |
+| [105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [110-balanced-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/110-balanced-binary-tree) |
 | [144-binary-tree-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/144-binary-tree-preorder-traversal) |
 | [145-binary-tree-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/145-binary-tree-postorder-traversal) |
-| [0199-binary-tree-right-side-view](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [199-binary-tree-right-side-view](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/199-binary-tree-right-side-view) |
 | [226-invert-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/226-invert-binary-tree) |
-| [0230-kth-smallest-element-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [230-kth-smallest-element-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/230-kth-smallest-element-in-a-bst) |
 | [235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/235-lowest-common-ancestor-of-a-binary-search-tree) |
-| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
-| [0543-diameter-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0543-diameter-of-binary-tree) |
-| [0572-subtree-of-another-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0572-subtree-of-another-tree) |
-| [0637-average-of-levels-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/236-lowest-common-ancestor-of-a-binary-tree) |
+| [543-diameter-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/543-diameter-of-binary-tree) |
+| [572-subtree-of-another-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/572-subtree-of-another-tree) |
+| [637-average-of-levels-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [100-same-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/100-same-tree) |
-| [0102-binary-tree-level-order-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [102-binary-tree-level-order-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/102-binary-tree-level-order-traversal) |
 | [104-maximum-depth-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/104-maximum-depth-of-binary-tree) |
-| [0199-binary-tree-right-side-view](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0199-binary-tree-right-side-view) |
-| [0200-number-of-islands](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0200-number-of-islands) |
+| [199-binary-tree-right-side-view](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/199-binary-tree-right-side-view) |
+| [200-number-of-islands](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/200-number-of-islands) |
 | [226-invert-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/226-invert-binary-tree) |
-| [0637-average-of-levels-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [637-average-of-levels-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/637-average-of-levels-in-binary-tree) |
 ## Recursion
 |  |
 | ------- |
 | [21-merge-two-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/21-merge-two-sorted-lists) |
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
 | [206-reverse-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/206-reverse-linked-list) |
-| [0206-reverse-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -225,7 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -261,22 +260,22 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [128-longest-consecutive-sequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/128-longest-consecutive-sequence) |
-| [0200-number-of-islands](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0200-number-of-islands) |
+| [200-number-of-islands](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/200-number-of-islands) |
 ## Linked List
 |  |
 | ------- |
 | [21-merge-two-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/21-merge-two-sorted-lists) |
-| [0086-partition-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0086-partition-list) |
+| [86-partition-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/86-partition-list) |
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
 | [206-reverse-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/206-reverse-linked-list) |
-| [0206-reverse-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0206-reverse-linked-list) |
+| [206-reverse-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/206-reverse-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
-| [0230-kth-smallest-element-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [230-kth-smallest-element-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/230-kth-smallest-element-in-a-bst) |
 | [235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Hash Function
 |  |
 | ------- |
-| [0572-subtree-of-another-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [572-subtree-of-another-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
