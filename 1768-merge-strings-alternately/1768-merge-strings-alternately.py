@@ -1,17 +1,18 @@
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
-        A, B = len(word1), len(word2)
-        s = []
+        new_word = []
+        if len(word1) < len(word2):
+            for i in range(len(word1)):
+                new_word.append(word1[i])
+                new_word.append(word2[i])
+            
+            new_word.append(word2[len(word1):])
 
-        # Merge while both have characters
-        for i in range(min(A, B)):
-            s.append(word1[i])
-            s.append(word2[i])
-
-        # Append leftovers (if any)
-        if A > B:
-            s.extend(word1[B:])
         else:
-            s.extend(word2[A:])
+            for i in range(len(word2)):
+                new_word.append(word1[i])
+                new_word.append(word2[i])
+            
+            new_word.append(word1[len(word2):])
 
-        return ''.join(s)
+        return ''.join(new_word)
