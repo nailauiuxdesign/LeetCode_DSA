@@ -7,6 +7,6 @@ class Solution:
             if count == 0:
                 element = num
             
-            count += 1 if element == num else -1
+            count += (1 if num == element else -1)
         
         return element
