@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [15-3sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/15-3sum) |
 | [18-4sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/18-4sum) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
+| [0075-sort-colors](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0075-sort-colors) |
 | [88-merge-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/88-merge-sorted-array) |
 | [169-majority-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/169-majority-element) |
 | [217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/217-contains-duplicate) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [36-valid-sudoku](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/36-valid-sudoku) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
 | [74-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/74-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [88-merge-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/88-merge-sorted-array) |
 | [105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [26-remove-duplicates-from-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/26-remove-duplicates-from-sorted-array) |
 | [27-remove-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/27-remove-element) |
 | [28-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/28-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [86-partition-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/86-partition-list) |
 | [88-merge-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/88-merge-sorted-array) |
