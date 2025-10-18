@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/217-contains-duplicate) |
 | [228-summary-ranges](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/228-summary-ranges) |
 | [238-product-of-array-except-self](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/238-product-of-array-except-self) |
+| [0238-product-of-array-except-self](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0238-product-of-array-except-self) |
 | [283-move-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/283-move-zeroes) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [238-product-of-array-except-self](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/238-product-of-array-except-self) |
+| [0238-product-of-array-except-self](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Union Find
 |  |
 | ------- |
