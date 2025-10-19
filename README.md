@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [695-max-area-of-island](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/695-max-area-of-island) |
 | [704-binary-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/704-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1695-maximum-erasure-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1695-maximum-erasure-value) |
 | [2058-concatenation-of-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2058-concatenation-of-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [167-two-sum-ii-input-array-is-sorted](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/167-two-sum-ii-input-array-is-sorted) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
 | [704-binary-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/704-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3-longest-substring-without-repeating-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3-longest-substring-without-repeating-characters) |
 | [424-longest-repeating-character-replacement](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/424-longest-repeating-character-replacement) |
 | [643-maximum-average-subarray-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1695-maximum-erasure-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Dynamic Programming
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [238-product-of-array-except-self](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/238-product-of-array-except-self) |
 | [0238-product-of-array-except-self](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Union Find
 |  |
 | ------- |
