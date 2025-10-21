@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [15-3sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/15-3sum) |
 | [18-4sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/18-4sum) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
+| [0056-merge-intervals](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0075-sort-colors) |
 | [88-merge-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/88-merge-sorted-array) |
 | [169-majority-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/169-majority-element) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [35-search-insert-position](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/35-search-insert-position) |
 | [36-valid-sudoku](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/36-valid-sudoku) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
+| [0056-merge-intervals](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0056-merge-intervals) |
 | [74-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/74-search-a-2d-matrix) |
 | [75-sort-colors](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/75-sort-colors) |
 | [80-remove-duplicates-from-sorted-array-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/80-remove-duplicates-from-sorted-array-ii) |
@@ -81,7 +83,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/217-contains-duplicate) |
 | [228-summary-ranges](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/228-summary-ranges) |
 | [238-product-of-array-except-self](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/238-product-of-array-except-self) |
-| [1004-max-consecutive-ones-iii](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [283-move-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/283-move-zeroes) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
@@ -90,8 +91,9 @@ A collection of LeetCode questions to ace the coding interview!
 | [682-baseball-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/682-baseball-game) |
 | [695-max-area-of-island](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/695-max-area-of-island) |
 | [704-binary-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/704-binary-search) |
-| [1019-squares-of-a-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1019-squares-of-a-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1695-maximum-erasure-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1695-maximum-erasure-value) |
 | [2058-concatenation-of-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2058-concatenation-of-array) |
