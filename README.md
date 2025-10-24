@@ -96,7 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1019-squares-of-a-sorted-array) |
-| [1127-last-stone-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1127-last-stone-weight) |
+| [1046-last-stone-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1046-last-stone-weight) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1695-maximum-erasure-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1695-maximum-erasure-value) |
 | [2058-concatenation-of-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2058-concatenation-of-array) |
@@ -283,7 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
-| [1127-last-stone-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1127-last-stone-weight) |
+| [1046-last-stone-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -345,5 +345,5 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
-| [0042-trapping-rain-water](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
+| [42-trapping-rain-water](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/42-trapping-rain-water) |
 <!---LeetCode Topics End-->
