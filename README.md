@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [121-best-time-to-buy-and-sell-stock](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/121-best-time-to-buy-and-sell-stock) |
 | [122-best-time-to-buy-and-sell-stock-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/122-best-time-to-buy-and-sell-stock-ii) |
 | [128-longest-consecutive-sequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [167-two-sum-ii-input-array-is-sorted](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/167-two-sum-ii-input-array-is-sorted) |
 | [169-majority-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/169-majority-element) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1013-fibonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1013-fibonacci-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3280-convert-date-to-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3280-convert-date-to-binary) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
 | [144-binary-tree-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/144-binary-tree-preorder-traversal) |
 | [145-binary-tree-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [155-min-stack](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/155-min-stack) |
 | [682-baseball-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/682-baseball-game) |
 ## Tree
