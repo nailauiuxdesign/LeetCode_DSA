@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [682-baseball-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/682-baseball-game) |
 | [695-max-area-of-island](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/695-max-area-of-island) |
 | [704-binary-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/704-binary-search) |
+| [0739-daily-temperatures](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [155-min-stack](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/155-min-stack) |
 | [682-baseball-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
@@ -356,4 +358,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [42-trapping-rain-water](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/42-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
