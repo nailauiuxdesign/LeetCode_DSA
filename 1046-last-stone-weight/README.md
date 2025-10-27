@@ -1,8 +1,8 @@
 <h2><a href="https://leetcode.com/problems/1046-last-stone-weight">1046. Last Stone Weight</a></h2>
 <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr>
-<p>You are given an array of integers <code> stones </code> where <code> stones [i]</code> is the weight of the <code> ith </code> stone.
+<p>You are given an array of integers <code> stones </code> where <code> stones [i]</code> is the weight of the <code> i<sup>th</sup> </code> stone.
 
-We are playing a game with the stones. On each turn, we choose the heaviest two stones and smash them together. Suppose the heaviest two stones have weights x and y with x <= y. The result of this smash is:
+We are playing a game with the stones. On each turn, we choose the heaviest two stones and smash them together. Suppose the heaviest two stones have weights <code>x</code> and <code>y</code> with <code>x <= y</code>. The result of this smash is:
 
 If <code> x == y </code>, both stones are destroyed, and
 If <code> x != y </code>, the stone of weight <code>x</code> is destroyed, and the stone of weight <code>y</code> has new weight <code>y - x</code>.
