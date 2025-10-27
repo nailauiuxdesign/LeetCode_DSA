@@ -12,8 +12,6 @@ Return the weight of the last remaining stone. If there are no stones left, retu
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/02/19/tree.jpg" style="width: 277px; height: 302px;" />
-<pre>
 <strong>Input:</strong> stones = [2,7,4,1,8,1]
 <strong>Output: </strong> 1
 <strong>Explanation: </strong>
