@@ -12,7 +12,7 @@ Return the weight of the last remaining stone. If there are no stones left, retu
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<strong>Input:</strong> stones = [2,7,4,1,8,1]
+<pre><strong>Input:</strong> stones = [2,7,4,1,8,1]
 <strong>Output: </strong> 1
 <strong>Explanation: </strong>
 We combine 7 and 8 to get 1 so the array converts to [2,4,1,1,1] then,
