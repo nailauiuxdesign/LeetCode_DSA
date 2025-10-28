@@ -104,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [1695-maximum-erasure-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1695-maximum-erasure-value) |
 | [2058-concatenation-of-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2058-concatenation-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2350-find-closest-number-to-zero) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Simulation
 |  |
 | ------- |
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
 | [682-baseball-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2058-concatenation-of-array) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [238-product-of-array-except-self](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/238-product-of-array-except-self) |
 | [238-product-of-array-except-self](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Union Find
 |  |
 | ------- |
