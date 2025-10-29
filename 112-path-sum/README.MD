@@ -9,10 +9,8 @@
 
 <p><strong class="example">Example 1:</strong></p>
 
-
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2021/01/18/pathsum1.jpg" style="width: 277px; height: 302px;" />
+
 <pre>
 <strong>Input:</strong> root = [5,4,8,11,null,13,4,7,2,null,null,null,1], targetSum = 22
 <strong>Output:</strong> true
@@ -46,7 +44,7 @@ There is no root-to-leaf path with sum = 5.
 
 <ul>
 	<li>The number of nodes in the tree is in the range [0, 5000].</li>
-	<li><code-1000 <= Node.val <= 1000</code></li>
+	<li><code>-1000 <= Node.val <= 1000</code></li>
 	<li><code>-1000 <= targetSum <= 1000</code></li>
 </ul>
 
