@@ -18,7 +18,7 @@
 
 <p><strong class="example">Example 2:</strong></p>
 
-<img alt="" src="https://assets.leetcode.com/uploads/2021/01/18/pathsum2.jpg" style="width: 277px; height: 302px;" />
+<img alt="" src="https://assets.leetcode.com/uploads/2021/01/18/pathsum2.jpg" />
 <pre>
 <strong>Input:</strong> root = [1,2,3], targetSum = 5
 <strong>Output:</strong> false
