@@ -2,62 +2,51 @@
 <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr>
 <p>Given an array of integers <code>nums</code>&nbsp;and an integer <code>target</code>, return <em>indices of the two numbers such that they add up to <code>target</code></em>.</p>
 
-<p>You may assume that each input would have <strong><em>exactly</em> one solution</strong>, and you may not use the <em>same</em> element twice.</p>
-<p>You can return the answer in any order.</p>
+<p>Given the <code>root</code> of a binary tree and an integer <code>targetSum</code>, return <code>true</code> if the tree has a <strong>root-to-leaf</strong> path such that adding up all the values along the path equals <code>targetSum</code>.</p>
+<p>A <strong>leaf</strong> is a node with no children.</p>
 
 <p>&nbsp;</p>
 
 <p><strong class="example">Example 1:</strong></p>
 
 
-graph TD;
-    TAM["<b>TAM (Total Addressable Market)</b><br/>Global Podcasting Market<br/><i>$100B by 2028</i>"];
-    SAM["<b>SAM (Serviceable Available Market)</b><br/>Podcasters Seeking Expansion<br/><i>$10B</i>"];
-    SOM["<b>SOM (Service Obtainable Market)</b><br/>Initial Target Niche<br/><i>$1M in Year 1</i>"];
-
-    TAM --> SAM;
-    SAM --> SOM;
-
-    style TAM fill:#2E4053,stroke:#fff,stroke-width:2px,color:#fff
-    style SAM fill:#5D6D7E,stroke:#fff,stroke-width:2px,color:#fff
-    style SOM fill:#85929E,stroke:#fff,stroke-width:2px,color:#fff
-
-
-
-
-
-
-
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
+<img alt="" src="https://assets.leetcode.com/uploads/2021/01/18/pathsum1.jpg" style="width: 277px; height: 302px;" />
 <pre>
-<strong>Input:</strong> nums = [2,7,11,15], target = 9
-<strong>Output:</strong> [0,1]
-<strong>Explanation:</strong> Because nums[0] + nums[1] == 9, we return [0, 1].
+<strong>Input:</strong> root = [5,4,8,11,null,13,4,7,2,null,null,null,1], targetSum = 22
+<strong>Output:</strong> true
+<strong>Explanation</strong>: The root-to-leaf path with the target sum is shown.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
+<img alt="" src="https://assets.leetcode.com/uploads/2021/01/18/pathsum2.jpg" style="width: 277px; height: 302px;" />
 <pre>
-<strong>Input:</strong> nums = [3,2,4], target = 6
-<strong>Output:</strong> [1,2]
+<strong>Input:</strong> root = [1,2,3], targetSum = 5
+<strong>Output:</strong> false
+<strong>Explanation</strong>: There are two root-to-leaf paths in the tree:
+(1 --> 2): The sum is 3.
+(1 --> 3): The sum is 4.
+There is no root-to-leaf path with sum = 5.
 </pre>
 
 <p><strong class="example">Example 3:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [3,3], target = 6
-<strong>Output:</strong> [0,1]
+<strong>Input:</strong> root = [], targetSum = 0
+<strong>Output:</strong> false
+<strong>Explanation</strong>: Since the tree is empty, there are no root-to-leaf paths.
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
-<ul>
-	<li><code>2 &lt;= nums.length &lt;= 10<sup>4</sup></code></li>
-	<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
-	<li><code>-10<sup>9</sup> &lt;= target &lt;= 10<sup>9</sup></code></li>
-	<li><strong>Only one valid answer exists.</strong></li>
-</ul>
 
-<p>&nbsp;</p>
-<strong>Follow-up:&nbsp;</strong>Can you come up with an algorithm that is less than <code>O(n<sup>2</sup>)</code><font face="monospace">&nbsp;</font>time complexity?
+
+<ul>
+	<li>The number of nodes in the tree is in the range [0, 5000].</li>
+	<li><code-1000 <= Node.val <= 1000</code></li>
+	<li><code>-1000 <= targetSum <= 1000</code></li>
+</ul>
 
