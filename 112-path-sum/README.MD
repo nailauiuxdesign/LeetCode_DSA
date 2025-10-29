@@ -43,7 +43,7 @@ There is no root-to-leaf path with sum = 5.
 
 
 <ul>
-	<li>The number of nodes in the tree is in the range [0, 5000].</li>
+	<li>The number of nodes in the tree is in the range <code>[0, 5000]</code>.</li>
 	<li><code>-1000 <= Node.val <= 1000</code></li>
 	<li><code>-1000 <= targetSum <= 1000</code></li>
 </ul>
