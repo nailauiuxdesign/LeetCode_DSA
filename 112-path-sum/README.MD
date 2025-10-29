@@ -8,7 +8,7 @@
 
 <p><strong class="example">Example 1:</strong></p>
 
-<img alt="" src="https://assets.leetcode.com/uploads/2021/01/18/pathsum1.jpg" style="width: 277px; height: 302px;" />
+<img alt="" src="https://assets.leetcode.com/uploads/2021/01/18/pathsum1.jpg"/>
 
 <pre>
 <strong>Input:</strong> root = [5,4,8,11,null,13,4,7,2,null,null,null,1], targetSum = 22
