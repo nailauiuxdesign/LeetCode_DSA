@@ -14,6 +14,8 @@
 <strong>Output:</strong> true
 </pre>
 
+<p>&nbsp;</p>
+
 <p><strong class="example">Example 2:</strong></p>
 
 <img alt="" src="https://assets.leetcode.com/uploads/2021/01/18/pathsum2.jpg" />
