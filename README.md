@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [74-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/74-search-a-2d-matrix) |
 | [75-sort-colors](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/75-sort-colors) |
 | [80-remove-duplicates-from-sorted-array-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/80-remove-duplicates-from-sorted-array-ii) |
+| [84-largest-rectangle-in-histogram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/84-largest-rectangle-in-histogram) |
 | [88-merge-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/88-merge-sorted-array) |
 | [105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [121-best-time-to-buy-and-sell-stock](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/121-best-time-to-buy-and-sell-stock) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [20-valid-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/20-valid-parentheses) |
 | [42-trapping-rain-water](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/42-trapping-rain-water) |
+| [84-largest-rectangle-in-histogram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/84-largest-rectangle-in-histogram) |
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
 | [144-binary-tree-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/144-binary-tree-preorder-traversal) |
 | [145-binary-tree-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/145-binary-tree-postorder-traversal) |
@@ -366,5 +368,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [42-trapping-rain-water](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/42-trapping-rain-water) |
+| [84-largest-rectangle-in-histogram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/84-largest-rectangle-in-histogram) |
 | [739-daily-temperatures](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/739-daily-temperatures) |
 <!---LeetCode Topics End-->
