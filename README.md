@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [100-same-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/100-same-tree) |
 | [101-symmetric-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/101-symmetric-tree) |
 | [102-binary-tree-level-order-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/102-binary-tree-level-order-traversal) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [100-same-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/100-same-tree) |
 | [101-symmetric-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/101-symmetric-tree) |
 | [104-maximum-depth-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/104-maximum-depth-of-binary-tree) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [100-same-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/100-same-tree) |
 | [101-symmetric-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/101-symmetric-tree) |
 | [102-binary-tree-level-order-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/102-binary-tree-level-order-traversal) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [230-kth-smallest-element-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/230-kth-smallest-element-in-a-bst) |
 | [235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [530-minimum-absolute-difference-in-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/530-minimum-absolute-difference-in-bst) |
