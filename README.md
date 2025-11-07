@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [169-majority-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/169-majority-element) |
 | [215-kth-largest-element-in-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/215-kth-largest-element-in-an-array) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [215-kth-largest-element-in-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/215-kth-largest-element-in-an-array) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 | [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
@@ -345,8 +347,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [215-kth-largest-element-in-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/215-kth-largest-element-in-an-array) |
-| [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
+| [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
 | [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Trie
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [21-merge-two-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/21-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [86-partition-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/86-partition-list) |
 | [138-copy-list-with-random-pointer](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/138-copy-list-with-random-pointer) |
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
@@ -408,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
