@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [35-search-insert-position](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/35-search-insert-position) |
 | [36-valid-sudoku](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/36-valid-sudoku) |
 | [42-trapping-rain-water](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/42-trapping-rain-water) |
+| [0046-permutations](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0046-permutations) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
 | [56-merge-intervals](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/56-merge-intervals) |
 | [74-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/74-search-a-2d-matrix) |
@@ -420,5 +421,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
