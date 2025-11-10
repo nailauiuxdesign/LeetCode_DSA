@@ -1,20 +1,17 @@
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
-        ans, sol = [], []
- 
-        def backtrack(x):
-            if len(sol) == k:
-                ans.append(sol[:])
+        res = []
+
+        def dfs(path,start):
+            if len(path)==k:
+                res.append(path[:])
                 return
- 
-            left = x
-            still_need = k - len(sol)
-            if left > still_need:
-                backtrack(x - 1)
- 
-            sol.append(x)
-            backtrack(x - 1)
-            sol.pop()
- 
-        backtrack(n)
-        return ans
+
+            for i in range(start,n+1):
+                path.append(i)
+                dfs(path,i+1)
+                path.pop()
+                
+        dfs([],1)
+
+        return res
