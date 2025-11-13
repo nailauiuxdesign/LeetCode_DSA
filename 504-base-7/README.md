@@ -1,4 +1,6 @@
-<h2><a href="https://leetcode.com/problems/base-7">504. Base 7</a></h2><h3>Easy</h3><hr><p>Given an integer <code>num</code>, return <em>a string of its <strong>base 7</strong> representation</em>.</p>
+<h2><a href="https://leetcode.com/problems/base-7">504. Base 7</a></h2>
+<img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr>
+<p>Given an integer <code>num</code>, return <em>a string of its <strong>base 7</strong> representation</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
