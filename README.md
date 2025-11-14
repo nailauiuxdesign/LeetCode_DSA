@@ -6,7 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1-two-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1-two-sum) |
 | [3-longest-substring-without-repeating-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3-longest-substring-without-repeating-characters) |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [17-letter-combinations-of-a-phone-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/17-letter-combinations-of-a-phone-number) |
 | [36-valid-sudoku](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/36-valid-sudoku) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
 | [105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -29,7 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3-longest-substring-without-repeating-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3-longest-substring-without-repeating-characters) |
 | [6-zigzag-conversion](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/6-zigzag-conversion) |
 | [14-longest-common-prefix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/14-longest-common-prefix) |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [17-letter-combinations-of-a-phone-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/17-letter-combinations-of-a-phone-number) |
 | [20-valid-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/20-valid-parentheses) |
 | [28-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/28-find-the-index-of-the-first-occurrence-in-a-string) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
@@ -429,7 +429,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [17-letter-combinations-of-a-phone-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/17-letter-combinations-of-a-phone-number) |
 | [39-combination-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/39-combination-sum) |
 | [46-permutations](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/46-permutations) |
 | [77-combinations](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/77-combinations) |
