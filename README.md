@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [18-4sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/18-4sum) |
 | [26-remove-duplicates-from-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/26-remove-duplicates-from-sorted-array) |
 | [27-remove-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/27-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [35-search-insert-position](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/35-search-insert-position) |
 | [36-valid-sudoku](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/36-valid-sudoku) |
 | [39-combination-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/39-combination-sum) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [35-search-insert-position](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/35-search-insert-position) |
 | [74-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/74-search-a-2d-matrix) |
 | [153-find-minimum-in-rotated-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/153-find-minimum-in-rotated-sorted-array) |
