@@ -12,6 +12,7 @@
 <strong>Output:</strong> [[7,4,1],[8,5,2],[9,6,3]]
 </pre>
 
+
 <p><strong class="example">Example 2:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2020/08/28/mat2.jpg" style="width: 500px; height: 201px;" />
 <pre>
