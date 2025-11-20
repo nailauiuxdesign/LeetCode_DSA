@@ -116,7 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [695-max-area-of-island](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/695-max-area-of-island) |
 | [704-binary-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/704-binary-search) |
 | [739-daily-temperatures](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/739-daily-temperatures) |
-| [0747-min-cost-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [746-min-cost-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/746-min-cost-climbing-stairs) |
 | [875-koko-eating-bananas](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/875-koko-eating-bananas) |
 | [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -235,7 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [121-best-time-to-buy-and-sell-stock](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/121-best-time-to-buy-and-sell-stock) |
 | [122-best-time-to-buy-and-sell-stock-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/122-best-time-to-buy-and-sell-stock-ii) |
 | [392-is-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/392-is-subsequence) |
-| [0747-min-cost-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [746-min-cost-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
