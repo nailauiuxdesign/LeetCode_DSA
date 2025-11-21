@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0054-spiral-matrix) |
 | [56-merge-intervals](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/56-merge-intervals) |
+| [0057-insert-interval](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0057-insert-interval) |
 | [74-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/74-search-a-2d-matrix) |
 | [75-sort-colors](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/75-sort-colors) |
 | [78-subsets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/78-subsets) |
