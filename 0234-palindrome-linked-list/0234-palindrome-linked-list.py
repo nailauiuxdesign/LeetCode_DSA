@@ -8,12 +8,12 @@ class Solution:
         fast = head
         slow = head
 
-        #find middle (slow)
+        # find middle (slow)
         while fast and fast.next:
             fast = fast.next.next
             slow = slow.next
 
-        #reverse second half
+        # reverse second half
         prev = None
         while slow:
             tmp = slow.next
