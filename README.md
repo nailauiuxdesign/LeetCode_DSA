@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [125-valid-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/125-valid-palindrome) |
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
 | [167-two-sum-ii-input-array-is-sorted](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0234-palindrome-linked-list) |
 | [283-move-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/283-move-zeroes) |
 | [344-reverse-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/344-reverse-string) |
 | [345-reverse-vowels-of-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/345-reverse-vowels-of-a-string) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [145-binary-tree-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/145-binary-tree-postorder-traversal) |
 | [150-evaluate-reverse-polish-notation](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/150-evaluate-reverse-polish-notation) |
 | [155-min-stack](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0234-palindrome-linked-list) |
 | [682-baseball-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/682-baseball-game) |
 | [739-daily-temperatures](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/739-daily-temperatures) |
 ## Tree
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [21-merge-two-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/21-merge-two-sorted-lists) |
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
 | [206-reverse-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [138-copy-list-with-random-pointer](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/138-copy-list-with-random-pointer) |
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
 | [206-reverse-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Binary Search Tree
 |  |
