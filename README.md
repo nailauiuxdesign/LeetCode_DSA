@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0050-powx-n) |
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
 | [70-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/70-climbing-stairs) |
 | [150-evaluate-reverse-polish-notation](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/150-evaluate-reverse-polish-notation) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [21-merge-two-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/21-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0050-powx-n) |
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
 | [206-reverse-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0234-palindrome-linked-list) |
