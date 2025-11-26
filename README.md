@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [17-letter-combinations-of-a-phone-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/17-letter-combinations-of-a-phone-number) |
 | [36-valid-sudoku](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/36-valid-sudoku) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [128-longest-consecutive-sequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/128-longest-consecutive-sequence) |
 | [138-copy-list-with-random-pointer](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/138-copy-list-with-random-pointer) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0054-spiral-matrix) |
 | [56-merge-intervals](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/56-merge-intervals) |
 | [0057-insert-interval](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [74-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/74-search-a-2d-matrix) |
 | [75-sort-colors](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/75-sort-colors) |
 | [78-subsets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/78-subsets) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [36-valid-sudoku](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/36-valid-sudoku) |
 | [0048-rotate-image](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [74-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/74-search-a-2d-matrix) |
 | [200-number-of-islands](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/200-number-of-islands) |
 | [695-max-area-of-island](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/695-max-area-of-island) |
