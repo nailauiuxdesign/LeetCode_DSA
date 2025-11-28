@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [145-binary-tree-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/145-binary-tree-postorder-traversal) |
 | [150-evaluate-reverse-polish-notation](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/150-evaluate-reverse-polish-notation) |
 | [155-min-stack](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0234-palindrome-linked-list) |
 | [682-baseball-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/682-baseball-game) |
 | [739-daily-temperatures](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/739-daily-temperatures) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [155-min-stack](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/155-min-stack) |
 | [208-implement-trie-prefix-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/208-implement-trie-prefix-tree) |
+| [0225-implement-stack-using-queues](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0225-implement-stack-using-queues) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -466,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [46-permutations](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/46-permutations) |
 | [77-combinations](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/77-combinations) |
 | [78-subsets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/78-subsets) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
