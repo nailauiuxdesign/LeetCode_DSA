@@ -9,11 +9,11 @@ A collection of LeetCode questions to ace the coding interview!
 | [17-letter-combinations-of-a-phone-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/17-letter-combinations-of-a-phone-number) |
 | [36-valid-sudoku](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/36-valid-sudoku) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
-| [0073-set-matrix-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [73-set-matrix-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/73-set-matrix-zeroes) |
 | [105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [128-longest-consecutive-sequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/128-longest-consecutive-sequence) |
 | [138-copy-list-with-random-pointer](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/138-copy-list-with-random-pointer) |
-| [0142-linked-list-cycle-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [142-linked-list-cycle-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/142-linked-list-cycle-ii) |
 | [169-majority-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/169-majority-element) |
 | [208-implement-trie-prefix-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/208-implement-trie-prefix-tree) |
 | [217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/217-contains-duplicate) |
@@ -34,7 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [14-longest-common-prefix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/14-longest-common-prefix) |
 | [17-letter-combinations-of-a-phone-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/17-letter-combinations-of-a-phone-number) |
 | [20-valid-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/20-valid-parentheses) |
-| [0022-generate-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0022-generate-parentheses) |
+| [22-generate-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/22-generate-parentheses) |
 | [28-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/28-find-the-index-of-the-first-occurrence-in-a-string) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
@@ -79,18 +79,18 @@ A collection of LeetCode questions to ace the coding interview!
 | [18-4sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/18-4sum) |
 | [26-remove-duplicates-from-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/26-remove-duplicates-from-sorted-array) |
 | [27-remove-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/27-remove-element) |
-| [0033-search-in-rotated-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [33-search-in-rotated-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/33-search-in-rotated-sorted-array) |
 | [35-search-insert-position](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/35-search-insert-position) |
 | [36-valid-sudoku](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/36-valid-sudoku) |
 | [39-combination-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/39-combination-sum) |
 | [42-trapping-rain-water](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/42-trapping-rain-water) |
 | [46-permutations](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/46-permutations) |
-| [0048-rotate-image](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0048-rotate-image) |
+| [48-rotate-image](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/48-rotate-image) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
-| [0054-spiral-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0054-spiral-matrix) |
+| [54-spiral-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/54-spiral-matrix) |
 | [56-merge-intervals](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/56-merge-intervals) |
-| [0057-insert-interval](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0057-insert-interval) |
-| [0073-set-matrix-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [57-insert-interval](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/57-insert-interval) |
+| [73-set-matrix-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/73-set-matrix-zeroes) |
 | [74-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/74-search-a-2d-matrix) |
 | [75-sort-colors](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/75-sort-colors) |
 | [78-subsets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/78-subsets) |
@@ -101,7 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [121-best-time-to-buy-and-sell-stock](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/121-best-time-to-buy-and-sell-stock) |
 | [122-best-time-to-buy-and-sell-stock-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/122-best-time-to-buy-and-sell-stock-ii) |
 | [128-longest-consecutive-sequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/128-longest-consecutive-sequence) |
-| [0136-single-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0136-single-number) |
+| [136-single-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/136-single-number) |
 | [150-evaluate-reverse-polish-notation](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/150-evaluate-reverse-polish-notation) |
 | [153-find-minimum-in-rotated-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/153-find-minimum-in-rotated-sorted-array) |
 | [167-two-sum-ii-input-array-is-sorted](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/167-two-sum-ii-input-array-is-sorted) |
@@ -139,7 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
-| [0054-spiral-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0054-spiral-matrix) |
+| [54-spiral-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/54-spiral-matrix) |
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
 | [682-baseball-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2058-concatenation-of-array) |
@@ -147,8 +147,8 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
-| [0048-rotate-image](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0048-rotate-image) |
-| [0050-powx-n](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0050-powx-n) |
+| [48-rotate-image](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/48-rotate-image) |
+| [50-powx-n](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/50-powx-n) |
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
 | [70-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/70-climbing-stairs) |
 | [150-evaluate-reverse-polish-notation](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/150-evaluate-reverse-polish-notation) |
@@ -165,12 +165,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
 | [78-subsets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/78-subsets) |
-| [0136-single-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0136-single-number) |
+| [136-single-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/136-single-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Binary Search
 |  |
 | ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [33-search-in-rotated-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/33-search-in-rotated-sorted-array) |
 | [35-search-insert-position](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/35-search-insert-position) |
 | [74-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/74-search-a-2d-matrix) |
 | [153-find-minimum-in-rotated-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/153-find-minimum-in-rotated-sorted-array) |
@@ -184,9 +184,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [36-valid-sudoku](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/36-valid-sudoku) |
-| [0048-rotate-image](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0048-rotate-image) |
-| [0054-spiral-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0054-spiral-matrix) |
-| [0073-set-matrix-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [48-rotate-image](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/48-rotate-image) |
+| [54-spiral-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/54-spiral-matrix) |
+| [73-set-matrix-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/73-set-matrix-zeroes) |
 | [74-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/74-search-a-2d-matrix) |
 | [200-number-of-islands](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/200-number-of-islands) |
 | [695-max-area-of-island](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/695-max-area-of-island) |
@@ -210,10 +210,10 @@ A collection of LeetCode questions to ace the coding interview!
 | [86-partition-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/86-partition-list) |
 | [88-merge-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/88-merge-sorted-array) |
 | [125-valid-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/125-valid-palindrome) |
-| [0142-linked-list-cycle-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [142-linked-list-cycle-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/142-linked-list-cycle-ii) |
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
 | [167-two-sum-ii-input-array-is-sorted](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/167-two-sum-ii-input-array-is-sorted) |
-| [0234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0234-palindrome-linked-list) |
+| [234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/234-palindrome-linked-list) |
 | [283-move-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/283-move-zeroes) |
 | [344-reverse-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/344-reverse-string) |
 | [345-reverse-vowels-of-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/345-reverse-vowels-of-a-string) |
@@ -241,7 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
-| [0022-generate-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0022-generate-parentheses) |
+| [22-generate-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/22-generate-parentheses) |
 | [42-trapping-rain-water](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/42-trapping-rain-water) |
 | [70-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/70-climbing-stairs) |
 | [121-best-time-to-buy-and-sell-stock](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/121-best-time-to-buy-and-sell-stock) |
@@ -260,8 +260,9 @@ A collection of LeetCode questions to ace the coding interview!
 | [145-binary-tree-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/145-binary-tree-postorder-traversal) |
 | [150-evaluate-reverse-polish-notation](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/150-evaluate-reverse-polish-notation) |
 | [155-min-stack](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/155-min-stack) |
-| [0225-implement-stack-using-queues](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0225-implement-stack-using-queues) |
-| [0234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0234-palindrome-linked-list) |
+| [225-implement-stack-using-queues](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/225-implement-stack-using-queues) |
+| [232-implement-queue-using-stacks](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/232-implement-queue-using-stacks) |
+| [234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/234-palindrome-linked-list) |
 | [682-baseball-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/682-baseball-game) |
 | [739-daily-temperatures](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/739-daily-temperatures) |
 ## Tree
@@ -343,10 +344,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [21-merge-two-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/21-merge-two-sorted-lists) |
-| [0050-powx-n](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0050-powx-n) |
+| [50-powx-n](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/50-powx-n) |
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
 | [206-reverse-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/206-reverse-linked-list) |
-| [0234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0234-palindrome-linked-list) |
+| [234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -402,7 +403,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [155-min-stack](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/155-min-stack) |
 | [208-implement-trie-prefix-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/208-implement-trie-prefix-tree) |
-| [0225-implement-stack-using-queues](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [225-implement-stack-using-queues](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/225-implement-stack-using-queues) |
+| [232-implement-queue-using-stacks](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/232-implement-queue-using-stacks) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -424,10 +426,10 @@ A collection of LeetCode questions to ace the coding interview!
 | [23-merge-k-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/23-merge-k-sorted-lists) |
 | [86-partition-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/86-partition-list) |
 | [138-copy-list-with-random-pointer](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/138-copy-list-with-random-pointer) |
-| [0142-linked-list-cycle-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [142-linked-list-cycle-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/142-linked-list-cycle-ii) |
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
 | [206-reverse-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/206-reverse-linked-list) |
-| [0234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0234-palindrome-linked-list) |
+| [234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/234-palindrome-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Binary Search Tree
 |  |
@@ -463,7 +465,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [17-letter-combinations-of-a-phone-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/17-letter-combinations-of-a-phone-number) |
-| [0022-generate-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0022-generate-parentheses) |
+| [22-generate-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/22-generate-parentheses) |
 | [39-combination-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/39-combination-sum) |
 | [46-permutations](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/46-permutations) |
 | [77-combinations](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/77-combinations) |
@@ -471,5 +473,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
-| [0225-implement-stack-using-queues](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [225-implement-stack-using-queues](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/225-implement-stack-using-queues) |
+| [232-implement-queue-using-stacks](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
