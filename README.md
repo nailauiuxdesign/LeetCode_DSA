@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
 | [424-longest-repeating-character-replacement](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0496-next-greater-element-i) |
 | [567-permutation-in-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/567-permutation-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1695-maximum-erasure-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1695-maximum-erasure-value) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [283-move-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/283-move-zeroes) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0496-next-greater-element-i) |
 | [605-can-place-flowers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/605-can-place-flowers) |
 | [643-maximum-average-subarray-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/643-maximum-average-subarray-i) |
 | [682-baseball-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/682-baseball-game) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [225-implement-stack-using-queues](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/225-implement-stack-using-queues) |
 | [232-implement-queue-using-stacks](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/232-implement-queue-using-stacks) |
 | [234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0496-next-greater-element-i) |
 | [682-baseball-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/682-baseball-game) |
 | [739-daily-temperatures](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/739-daily-temperatures) |
 ## Tree
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [42-trapping-rain-water](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/42-trapping-rain-water) |
 | [84-largest-rectangle-in-histogram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/84-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0496-next-greater-element-i) |
 | [739-daily-temperatures](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/739-daily-temperatures) |
 ## Geometry
 |  |
