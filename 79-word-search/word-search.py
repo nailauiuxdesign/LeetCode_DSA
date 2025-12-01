@@ -1,37 +1,39 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
-        m = len(board)
-        n = len(board[0])
-        W = len(word)
- 
-        if m == 1 and n == 1:
-            return board[0][0] == word
- 
-        def backtrack(pos, index):
-            i, j = pos
- 
-            if index == W:
-                return True
- 
-            if board[i][j] != word[index]:
-                return False
- 
-            char = board[i][j]
-            board[i][j] = "#"
- 
-            for i_off, j_off in [(0, 1), (1, 0), (0, -1), (-1, 0)]:
-                r, c = i + i_off, j + j_off
- 
-                if 0 <= r < m and 0 <= c < n:
-                    if backtrack((r, c), index + 1):
-                        return True
- 
-            board[i][j] = char
+        R = len(board)
+        C = len(board[0])
+        
+        if len(word) > R*C:
             return False
- 
-        for i in range(m):
-            for j in range(n):
-                if backtrack((i, j), 0):
+        
+        count = Counter(sum(board, []))
+        
+        for c, countWord in Counter(word).items():
+            if count[c] < countWord:
+                return False
+            
+        if count[word[0]] > count[word[-1]]:
+             word = word[::-1]
+                        
+        seen = set()
+        
+        def dfs(r, c, i):
+            if i == len(word):
+                return True
+            if r < 0 or c < 0 or r >= R or c >= C or word[i] != board[r][c] or (r,c) in seen:
+                return False
+            
+            seen.add((r,c))
+            res = (dfs(r+1,c,i+1) or 
+                dfs(r-1,c,i+1) or
+                dfs(r,c+1,i+1) or
+                dfs(r,c-1,i+1))
+            seen.remove((r,c))
+
+            return res
+        
+        for i in range(R):
+            for j in range(C):
+                if dfs(i,j,0):
                     return True
- 
-        return False        
+        return False
