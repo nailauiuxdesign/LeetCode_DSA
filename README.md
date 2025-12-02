@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [208-implement-trie-prefix-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/208-implement-trie-prefix-tree) |
 | [217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/217-contains-duplicate) |
 | [242-valid-anagram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/242-valid-anagram) |
+| [0268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0268-missing-number) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
 | [424-longest-repeating-character-replacement](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/424-longest-repeating-character-replacement) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [215-kth-largest-element-in-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/215-kth-largest-element-in-an-array) |
 | [217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/217-contains-duplicate) |
 | [242-valid-anagram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/242-valid-anagram) |
+| [0268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0268-missing-number) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
 | [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/217-contains-duplicate) |
 | [228-summary-ranges](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/228-summary-ranges) |
 | [238-product-of-array-except-self](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0268-missing-number) |
 | [283-move-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/283-move-zeroes) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
 | [70-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/70-climbing-stairs) |
 | [150-evaluate-reverse-polish-notation](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0504-base-7) |
 | [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1013-fibonacci-number) |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
 | [78-subsets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/78-subsets) |
 | [136-single-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/136-single-number) |
+| [0268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0268-missing-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Binary Search
 |  |
@@ -180,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [153-find-minimum-in-rotated-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/153-find-minimum-in-rotated-sorted-array) |
 | [167-two-sum-ii-input-array-is-sorted](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/167-two-sum-ii-input-array-is-sorted) |
 | [209-minimum-size-subarray-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0268-missing-number) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
 | [704-binary-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/704-binary-search) |
 | [875-koko-eating-bananas](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/875-koko-eating-bananas) |
