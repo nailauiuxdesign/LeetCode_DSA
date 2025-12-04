@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0268-missing-number) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [424-longest-repeating-character-replacement](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0496-next-greater-element-i) |
 | [567-permutation-in-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/567-permutation-in-string) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [242-valid-anagram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/242-valid-anagram) |
 | [344-reverse-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/344-reverse-string) |
 | [345-reverse-vowels-of-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [392-is-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/392-is-subsequence) |
 | [424-longest-repeating-character-replacement](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/424-longest-repeating-character-replacement) |
 | [0504-base-7](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0504-base-7) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [169-majority-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/169-majority-element) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Quickselect
@@ -492,5 +495,6 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [225-implement-stack-using-queues](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/225-implement-stack-using-queues) |
 | [232-implement-queue-using-stacks](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
