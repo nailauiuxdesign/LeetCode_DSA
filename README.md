@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [20-valid-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/20-valid-parentheses) |
 | [42-trapping-rain-water](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/42-trapping-rain-water) |
 | [84-largest-rectangle-in-histogram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/84-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
 | [144-binary-tree-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/144-binary-tree-preorder-traversal) |
 | [145-binary-tree-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/145-binary-tree-postorder-traversal) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [98-validate-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/98-validate-binary-search-tree) |
 | [100-same-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/100-same-tree) |
 | [101-symmetric-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/101-symmetric-tree) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [98-validate-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/98-validate-binary-search-tree) |
 | [100-same-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/100-same-tree) |
 | [101-symmetric-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/101-symmetric-tree) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [98-validate-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/98-validate-binary-search-tree) |
 | [100-same-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/100-same-tree) |
 | [101-symmetric-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/101-symmetric-tree) |
