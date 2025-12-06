@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [543-diameter-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/543-diameter-of-binary-tree) |
 | [572-subtree-of-another-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/572-subtree-of-another-tree) |
 | [637-average-of-levels-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/637-average-of-levels-in-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [572-subtree-of-another-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/572-subtree-of-another-tree) |
 | [637-average-of-levels-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/637-average-of-levels-in-binary-tree) |
 | [695-max-area-of-island](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/695-max-area-of-island) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [543-diameter-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/543-diameter-of-binary-tree) |
 | [572-subtree-of-another-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/572-subtree-of-another-tree) |
 | [637-average-of-levels-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/637-average-of-levels-in-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [530-minimum-absolute-difference-in-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/530-minimum-absolute-difference-in-bst) |
 | [637-average-of-levels-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/637-average-of-levels-in-binary-tree) |
 | [695-max-area-of-island](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/695-max-area-of-island) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Recursion
 |  |
 | ------- |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [230-kth-smallest-element-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/230-kth-smallest-element-in-a-bst) |
 | [235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [530-minimum-absolute-difference-in-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/530-minimum-absolute-difference-in-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Hash Function
 |  |
 | ------- |
