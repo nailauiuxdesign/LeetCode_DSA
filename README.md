@@ -18,12 +18,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [208-implement-trie-prefix-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/208-implement-trie-prefix-tree) |
 | [217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/217-contains-duplicate) |
 | [242-valid-anagram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/242-valid-anagram) |
-| [0268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0268-missing-number) |
+| [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
-| [0387-first-unique-character-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [387-first-unique-character-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/387-first-unique-character-in-a-string) |
 | [424-longest-repeating-character-replacement](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/424-longest-repeating-character-replacement) |
-| [0496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0496-next-greater-element-i) |
+| [496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/496-next-greater-element-i) |
 | [567-permutation-in-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/567-permutation-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1695-maximum-erasure-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1695-maximum-erasure-value) |
@@ -41,16 +41,16 @@ A collection of LeetCode questions to ace the coding interview!
 | [28-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/28-find-the-index-of-the-first-occurrence-in-a-string) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
-| [0079-word-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0079-word-search) |
+| [79-word-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/79-word-search) |
 | [125-valid-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/125-valid-palindrome) |
 | [208-implement-trie-prefix-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/208-implement-trie-prefix-tree) |
 | [242-valid-anagram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/242-valid-anagram) |
 | [344-reverse-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/344-reverse-string) |
 | [345-reverse-vowels-of-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/345-reverse-vowels-of-a-string) |
-| [0387-first-unique-character-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [387-first-unique-character-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/387-first-unique-character-in-a-string) |
 | [392-is-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/392-is-subsequence) |
 | [424-longest-repeating-character-replacement](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/424-longest-repeating-character-replacement) |
-| [0504-base-7](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0504-base-7) |
+| [504-base-7](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/504-base-7) |
 | [567-permutation-in-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/567-permutation-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1297-maximum-number-of-balloons](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1297-maximum-number-of-balloons) |
@@ -70,7 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [215-kth-largest-element-in-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/215-kth-largest-element-in-an-array) |
 | [217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/217-contains-duplicate) |
 | [242-valid-anagram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/242-valid-anagram) |
-| [0268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0268-missing-number) |
+| [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
 | [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
@@ -100,7 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [74-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/74-search-a-2d-matrix) |
 | [75-sort-colors](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/75-sort-colors) |
 | [78-subsets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/78-subsets) |
-| [0079-word-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0079-word-search) |
+| [79-word-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/79-word-search) |
 | [80-remove-duplicates-from-sorted-array-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/80-remove-duplicates-from-sorted-array-ii) |
 | [84-largest-rectangle-in-histogram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/84-largest-rectangle-in-histogram) |
 | [88-merge-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/88-merge-sorted-array) |
@@ -119,11 +119,11 @@ A collection of LeetCode questions to ace the coding interview!
 | [217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/217-contains-duplicate) |
 | [228-summary-ranges](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/228-summary-ranges) |
 | [238-product-of-array-except-self](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/238-product-of-array-except-self) |
-| [0268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0268-missing-number) |
+| [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
 | [283-move-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/283-move-zeroes) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
-| [0496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0496-next-greater-element-i) |
+| [496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/496-next-greater-element-i) |
 | [605-can-place-flowers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/605-can-place-flowers) |
 | [643-maximum-average-subarray-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/643-maximum-average-subarray-i) |
 | [682-baseball-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/682-baseball-game) |
@@ -163,8 +163,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
 | [70-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/70-climbing-stairs) |
 | [150-evaluate-reverse-polish-notation](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/150-evaluate-reverse-polish-notation) |
-| [0268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0268-missing-number) |
-| [0504-base-7](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0504-base-7) |
+| [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
+| [504-base-7](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/504-base-7) |
 | [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -178,7 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
 | [78-subsets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/78-subsets) |
 | [136-single-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/136-single-number) |
-| [0268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0268-missing-number) |
+| [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Binary Search
 |  |
@@ -189,7 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [153-find-minimum-in-rotated-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/153-find-minimum-in-rotated-sorted-array) |
 | [167-two-sum-ii-input-array-is-sorted](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/167-two-sum-ii-input-array-is-sorted) |
 | [209-minimum-size-subarray-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/209-minimum-size-subarray-sum) |
-| [0268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0268-missing-number) |
+| [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
 | [704-binary-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/704-binary-search) |
 | [875-koko-eating-bananas](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/875-koko-eating-bananas) |
@@ -202,7 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [54-spiral-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/54-spiral-matrix) |
 | [73-set-matrix-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/73-set-matrix-zeroes) |
 | [74-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/74-search-a-2d-matrix) |
-| [0079-word-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0079-word-search) |
+| [79-word-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/79-word-search) |
 | [200-number-of-islands](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/200-number-of-islands) |
 | [695-max-area-of-island](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/695-max-area-of-island) |
 | [2965-find-missing-and-repeated-values](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -270,7 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [20-valid-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/20-valid-parentheses) |
 | [42-trapping-rain-water](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/42-trapping-rain-water) |
 | [84-largest-rectangle-in-histogram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/84-largest-rectangle-in-histogram) |
-| [0094-binary-tree-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [94-binary-tree-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/94-binary-tree-inorder-traversal) |
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
 | [144-binary-tree-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/144-binary-tree-preorder-traversal) |
 | [145-binary-tree-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/145-binary-tree-postorder-traversal) |
@@ -279,13 +279,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [225-implement-stack-using-queues](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/225-implement-stack-using-queues) |
 | [232-implement-queue-using-stacks](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/232-implement-queue-using-stacks) |
 | [234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/234-palindrome-linked-list) |
-| [0496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0496-next-greater-element-i) |
+| [496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/496-next-greater-element-i) |
 | [682-baseball-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/682-baseball-game) |
 | [739-daily-temperatures](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [94-binary-tree-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/94-binary-tree-inorder-traversal) |
 | [98-validate-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/98-validate-binary-search-tree) |
 | [100-same-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/100-same-tree) |
 | [101-symmetric-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/101-symmetric-tree) |
@@ -304,12 +304,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [543-diameter-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/543-diameter-of-binary-tree) |
 | [572-subtree-of-another-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/572-subtree-of-another-tree) |
 | [637-average-of-levels-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/637-average-of-levels-in-binary-tree) |
-| [0783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
-| [0079-word-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0079-word-search) |
-| [0094-binary-tree-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [79-word-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/79-word-search) |
+| [94-binary-tree-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/94-binary-tree-inorder-traversal) |
 | [98-validate-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/98-validate-binary-search-tree) |
 | [100-same-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/100-same-tree) |
 | [101-symmetric-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/101-symmetric-tree) |
@@ -328,11 +328,11 @@ A collection of LeetCode questions to ace the coding interview!
 | [572-subtree-of-another-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/572-subtree-of-another-tree) |
 | [637-average-of-levels-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/637-average-of-levels-in-binary-tree) |
 | [695-max-area-of-island](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/695-max-area-of-island) |
-| [0783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [94-binary-tree-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/94-binary-tree-inorder-traversal) |
 | [98-validate-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/98-validate-binary-search-tree) |
 | [100-same-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/100-same-tree) |
 | [101-symmetric-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/101-symmetric-tree) |
@@ -351,7 +351,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [543-diameter-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/543-diameter-of-binary-tree) |
 | [572-subtree-of-another-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/572-subtree-of-another-tree) |
 | [637-average-of-levels-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/637-average-of-levels-in-binary-tree) |
-| [0783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -364,7 +364,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [530-minimum-absolute-difference-in-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/530-minimum-absolute-difference-in-bst) |
 | [637-average-of-levels-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/637-average-of-levels-in-binary-tree) |
 | [695-max-area-of-island](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/695-max-area-of-island) |
-| [0783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/783-minimum-distance-between-bst-nodes) |
 ## Recursion
 |  |
 | ------- |
@@ -408,7 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [169-majority-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/169-majority-element) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
-| [0387-first-unique-character-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [387-first-unique-character-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/387-first-unique-character-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Quickselect
@@ -464,7 +464,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [230-kth-smallest-element-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/230-kth-smallest-element-in-a-bst) |
 | [235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [530-minimum-absolute-difference-in-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/530-minimum-absolute-difference-in-bst) |
-| [0783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/783-minimum-distance-between-bst-nodes) |
 ## Hash Function
 |  |
 | ------- |
@@ -478,7 +478,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [42-trapping-rain-water](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/42-trapping-rain-water) |
 | [84-largest-rectangle-in-histogram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/84-largest-rectangle-in-histogram) |
-| [0496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0496-next-greater-element-i) |
+| [496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/496-next-greater-element-i) |
 | [739-daily-temperatures](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/739-daily-temperatures) |
 ## Geometry
 |  |
@@ -498,12 +498,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [46-permutations](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/46-permutations) |
 | [77-combinations](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/77-combinations) |
 | [78-subsets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/78-subsets) |
-| [0079-word-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0079-word-search) |
+| [79-word-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/79-word-search) |
 ## Queue
 |  |
 | ------- |
 | [225-implement-stack-using-queues](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/225-implement-stack-using-queues) |
 | [232-implement-queue-using-stacks](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/232-implement-queue-using-stacks) |
-| [0387-first-unique-character-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [387-first-unique-character-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
