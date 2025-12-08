@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
 | [78-subsets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/78-subsets) |
 | [136-single-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/136-single-number) |
+| [0191-number-of-1-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0191-number-of-1-bits) |
 | [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Binary Search
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [23-merge-k-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/23-merge-k-sorted-lists) |
 | [105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [169-majority-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0191-number-of-1-bits) |
 | [215-kth-largest-element-in-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/215-kth-largest-element-in-an-array) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 | [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
