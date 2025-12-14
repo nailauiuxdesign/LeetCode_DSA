@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1108-defanging-an-ip-address](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1297-maximum-number-of-balloons](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3280-convert-date-to-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3280-convert-date-to-binary) |
 ## Sorting
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [54-spiral-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/54-spiral-matrix) |
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
 | [682-baseball-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/682-baseball-game) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/496-next-greater-element-i) |
 | [682-baseball-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/682-baseball-game) |
 | [739-daily-temperatures](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/739-daily-temperatures) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Tree
 |  |
 | ------- |
