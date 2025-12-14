@@ -2,7 +2,6 @@ class Solution:
     def removeOccurrences(self, s: str, part: str) -> str:
         n = len(s)
         k = len(part)
-
         t = [' '] * n
         j = 0  #work as t's index
 
