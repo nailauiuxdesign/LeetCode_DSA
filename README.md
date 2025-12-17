@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [46-permutations](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/46-permutations) |
 | [48-rotate-image](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/48-rotate-image) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0053-maximum-subarray) |
 | [54-spiral-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/54-spiral-matrix) |
 | [56-merge-intervals](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/56-merge-intervals) |
 | [57-insert-interval](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/57-insert-interval) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [22-generate-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/22-generate-parentheses) |
 | [42-trapping-rain-water](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/42-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0053-maximum-subarray) |
 | [70-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/70-climbing-stairs) |
 | [121-best-time-to-buy-and-sell-stock](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/121-best-time-to-buy-and-sell-stock) |
 | [122-best-time-to-buy-and-sell-stock-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/122-best-time-to-buy-and-sell-stock-ii) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [23-merge-k-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/23-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0053-maximum-subarray) |
 | [105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [169-majority-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/169-majority-element) |
