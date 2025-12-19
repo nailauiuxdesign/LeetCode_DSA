@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [238-product-of-array-except-self](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/238-product-of-array-except-self) |
 | [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
 | [283-move-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
 | [496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/496-next-greater-element-i) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [136-single-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/136-single-number) |
 | [0191-number-of-1-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0191-number-of-1-bits) |
 | [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Binary Search
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [167-two-sum-ii-input-array-is-sorted](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/167-two-sum-ii-input-array-is-sorted) |
 | [209-minimum-size-subarray-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/209-minimum-size-subarray-sum) |
 | [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
 | [704-binary-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/704-binary-search) |
 | [875-koko-eating-bananas](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/875-koko-eating-bananas) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [167-two-sum-ii-input-array-is-sorted](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/167-two-sum-ii-input-array-is-sorted) |
 | [234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/234-palindrome-linked-list) |
 | [283-move-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [344-reverse-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/344-reverse-string) |
 | [345-reverse-vowels-of-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/345-reverse-vowels-of-a-string) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
