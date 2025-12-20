@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/217-contains-duplicate) |
 | [228-summary-ranges](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/228-summary-ranges) |
 | [238-product-of-array-except-self](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0239-sliding-window-maximum) |
 | [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
 | [283-move-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3-longest-substring-without-repeating-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3-longest-substring-without-repeating-characters) |
 | [209-minimum-size-subarray-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0239-sliding-window-maximum) |
 | [424-longest-repeating-character-replacement](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/424-longest-repeating-character-replacement) |
 | [567-permutation-in-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/567-permutation-in-string) |
 | [643-maximum-average-subarray-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/643-maximum-average-subarray-i) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [23-merge-k-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/23-merge-k-sorted-lists) |
 | [215-kth-largest-element-in-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0239-sliding-window-maximum) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
@@ -545,10 +548,15 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [225-implement-stack-using-queues](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/225-implement-stack-using-queues) |
 | [232-implement-queue-using-stacks](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0239-sliding-window-maximum) |
 | [387-first-unique-character-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
