@@ -1,4 +1,6 @@
-<h2><a href="https://leetcode.com/problems/peak-index-in-a-mountain-array">882. Peak Index in a Mountain Array</a></h2><h3>Medium</h3><hr><p>You are given an integer <strong>mountain</strong> array <code>arr</code> of length <code>n</code> where the values increase to a <strong>peak element</strong> and then decrease.</p>
+<h2><a href="https://leetcode.com/problems/peak-index-in-a-mountain-array">882. Peak Index in a Mountain Array</a></h2>
+<img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr>
+<p>You are given an integer <strong>mountain</strong> array <code>arr</code> of length <code>n</code> where the values increase to a <strong>peak element</strong> and then decrease.</p>
 
 <p>Return the index of the peak element.</p>
 
