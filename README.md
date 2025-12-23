@@ -85,7 +85,6 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1-two-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1-two-sum) |
 | [4-median-of-two-sorted-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/4-median-of-two-sorted-arrays) |
-| [4-median-of-two-sorted-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/4-median-of-two-sorted-arrays) |
 | [14-longest-common-prefix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/14-longest-common-prefix) |
 | [15-3sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/15-3sum) |
 | [18-4sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/18-4sum) |
