@@ -84,7 +84,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1-two-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1-two-sum) |
-| [0004-median-of-two-sorted-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [4-median-of-two-sorted-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/4-median-of-two-sorted-arrays) |
+| [4-median-of-two-sorted-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/4-median-of-two-sorted-arrays) |
 | [14-longest-common-prefix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/14-longest-common-prefix) |
 | [15-3sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/15-3sum) |
 | [18-4sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/18-4sum) |
@@ -199,7 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [4-median-of-two-sorted-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/4-median-of-two-sorted-arrays) |
 | [33-search-in-rotated-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/33-search-in-rotated-sorted-array) |
 | [35-search-insert-position](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/35-search-insert-position) |
 | [74-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/74-search-a-2d-matrix) |
@@ -422,7 +423,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [4-median-of-two-sorted-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/4-median-of-two-sorted-arrays) |
 | [23-merge-k-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/23-merge-k-sorted-lists) |
 | [53-maximum-subarray](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/53-maximum-subarray) |
 | [105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/105-construct-binary-tree-from-preorder-and-inorder-traversal) |
