@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [54-spiral-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/54-spiral-matrix) |
 | [56-merge-intervals](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/56-merge-intervals) |
 | [57-insert-interval](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/57-insert-interval) |
+| [0066-plus-one](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0066-plus-one) |
 | [73-set-matrix-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/73-set-matrix-zeroes) |
 | [74-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/74-search-a-2d-matrix) |
 | [75-sort-colors](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/75-sort-colors) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [48-rotate-image](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/48-rotate-image) |
 | [50-powx-n](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/50-powx-n) |
+| [0066-plus-one](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0066-plus-one) |
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
 | [70-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/70-climbing-stairs) |
 | [150-evaluate-reverse-polish-notation](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/150-evaluate-reverse-polish-notation) |
