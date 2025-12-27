@@ -25,6 +25,7 @@ class Solution:
       if levelSum > maxLevelSum:
         maxLevelSum = levelSum
         res = level
+        
       level += 1
 
     return res
