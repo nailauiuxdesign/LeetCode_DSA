@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0076-minimum-window-substring) |
 | [79-word-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/79-word-search) |
 | [125-valid-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0131-palindrome-partitioning) |
 | [151-reverse-words-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/151-reverse-words-in-a-string) |
 | [208-implement-trie-prefix-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/208-implement-trie-prefix-tree) |
 | [242-valid-anagram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/242-valid-anagram) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [70-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/70-climbing-stairs) |
 | [121-best-time-to-buy-and-sell-stock](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/121-best-time-to-buy-and-sell-stock) |
 | [122-best-time-to-buy-and-sell-stock-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0131-palindrome-partitioning) |
 | [392-is-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/392-is-subsequence) |
 | [746-min-cost-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1013-fibonacci-number) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [77-combinations](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/77-combinations) |
 | [78-subsets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/78-subsets) |
 | [79-word-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/79-word-search) |
+| [0131-palindrome-partitioning](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Queue
 |  |
 | ------- |
