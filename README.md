@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [230-kth-smallest-element-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/230-kth-smallest-element-in-a-bst) |
 | [235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/236-lowest-common-ancestor-of-a-binary-tree) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [513-find-bottom-left-tree-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/513-find-bottom-left-tree-value) |
 | [530-minimum-absolute-difference-in-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/530-minimum-absolute-difference-in-bst) |
 | [543-diameter-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/543-diameter-of-binary-tree) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
 | [206-reverse-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/206-reverse-linked-list) |
 | [234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/234-palindrome-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Binary Search Tree
 |  |
@@ -582,4 +584,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [239-sliding-window-maximum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
