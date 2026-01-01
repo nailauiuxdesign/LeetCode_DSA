@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [21-merge-two-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/21-merge-two-sorted-lists) |
 | [23-merge-k-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/23-merge-k-sorted-lists) |
 | [86-partition-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/86-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [116-populating-next-right-pointers-in-each-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/116-populating-next-right-pointers-in-each-node) |
 | [138-copy-list-with-random-pointer](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/138-copy-list-with-random-pointer) |
 | [142-linked-list-cycle-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/142-linked-list-cycle-ii) |
