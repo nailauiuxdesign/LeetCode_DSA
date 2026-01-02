@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [27-remove-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/27-remove-element) |
 | [28-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/28-find-the-index-of-the-first-occurrence-in-a-string) |
 | [42-trapping-rain-water](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/42-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0061-rotate-list) |
 | [75-sort-colors](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/75-sort-colors) |
 | [80-remove-duplicates-from-sorted-array-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/80-remove-duplicates-from-sorted-array-ii) |
 | [86-partition-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/86-partition-list) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0002-add-two-numbers) |
 | [21-merge-two-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/21-merge-two-sorted-lists) |
 | [23-merge-k-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/23-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0061-rotate-list) |
 | [86-partition-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/86-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [116-populating-next-right-pointers-in-each-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/116-populating-next-right-pointers-in-each-node) |
