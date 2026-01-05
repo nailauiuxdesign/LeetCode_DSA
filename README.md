@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2-add-two-numbers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2-add-two-numbers) |
+| [0002-add-two-numbers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0002-add-two-numbers) |
 | [48-rotate-image](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/48-rotate-image) |
 | [50-powx-n](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/50-powx-n) |
 | [66-plus-one](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/66-plus-one) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2-add-two-numbers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2-add-two-numbers) |
+| [0002-add-two-numbers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0002-add-two-numbers) |
 | [21-merge-two-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/21-merge-two-sorted-lists) |
 | [25-reverse-nodes-in-k-group](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/25-reverse-nodes-in-k-group) |
 | [50-powx-n](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/50-powx-n) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2-add-two-numbers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2-add-two-numbers) |
+| [0002-add-two-numbers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0002-add-two-numbers) |
 | [21-merge-two-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/21-merge-two-sorted-lists) |
 | [23-merge-k-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/23-merge-k-sorted-lists) |
 | [25-reverse-nodes-in-k-group](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/25-reverse-nodes-in-k-group) |
