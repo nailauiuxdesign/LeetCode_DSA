@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1127-last-stone-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1127-last-stone-weight) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1695-maximum-erasure-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1695-maximum-erasure-value) |
+| [1856-maximum-subarray-min-product](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1856-maximum-subarray-min-product) |
 | [2058-concatenation-of-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2350-find-closest-number-to-zero](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2350-find-closest-number-to-zero) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/496-next-greater-element-i) |
 | [682-baseball-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/682-baseball-game) |
 | [739-daily-temperatures](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/739-daily-temperatures) |
+| [1856-maximum-subarray-min-product](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1856-maximum-subarray-min-product) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Tree
 |  |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [238-product-of-array-except-self](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/238-product-of-array-except-self) |
 | [560-subarray-sum-equals-k](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1856-maximum-subarray-min-product](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1856-maximum-subarray-min-product) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Union Find
 |  |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [84-largest-rectangle-in-histogram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/84-largest-rectangle-in-histogram) |
 | [496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/496-next-greater-element-i) |
 | [739-daily-temperatures](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/739-daily-temperatures) |
+| [1856-maximum-subarray-min-product](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1856-maximum-subarray-min-product) |
 ## Geometry
 |  |
 | ------- |
