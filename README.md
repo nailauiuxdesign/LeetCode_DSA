@@ -98,7 +98,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [36-valid-sudoku](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/36-valid-sudoku) |
 | [39-combination-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/39-combination-sum) |
 | [40-combination-sum-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/40-combination-sum-ii) |
-| [0040-combination-sum-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0040-combination-sum-ii) |
 | [42-trapping-rain-water](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/42-trapping-rain-water) |
 | [45-jump-game-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/45-jump-game-ii) |
 | [46-permutations](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/46-permutations) |
@@ -579,7 +578,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [22-generate-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/22-generate-parentheses) |
 | [39-combination-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/39-combination-sum) |
 | [40-combination-sum-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/40-combination-sum-ii) |
-| [0040-combination-sum-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0040-combination-sum-ii) |
 | [46-permutations](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/46-permutations) |
 | [77-combinations](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/77-combinations) |
 | [78-subsets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/78-subsets) |
