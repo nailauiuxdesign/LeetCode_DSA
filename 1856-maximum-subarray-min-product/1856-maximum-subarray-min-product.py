@@ -1,5 +1,4 @@
 import itertools
-
 class Solution:
     def maxSumMinProduct(self, nums: list[int]) -> int:
         MOD = 10**9 + 7
