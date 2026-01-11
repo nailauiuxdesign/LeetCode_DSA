@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [46-permutations](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/46-permutations) |
 | [48-rotate-image](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/48-rotate-image) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
+| [0051-n-queens](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0051-n-queens) |
 | [53-maximum-subarray](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/53-maximum-subarray) |
 | [54-spiral-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/54-spiral-matrix) |
 | [56-merge-intervals](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/56-merge-intervals) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [39-combination-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/39-combination-sum) |
 | [40-combination-sum-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/40-combination-sum-ii) |
 | [46-permutations](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/46-permutations) |
+| [0051-n-queens](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0051-n-queens) |
 | [77-combinations](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/77-combinations) |
 | [78-subsets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/78-subsets) |
 | [79-word-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/79-word-search) |
