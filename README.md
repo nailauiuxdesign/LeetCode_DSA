@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [637-average-of-levels-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/637-average-of-levels-in-binary-tree) |
 | [703-kth-largest-element-in-a-stream](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/703-kth-largest-element-in-a-stream) |
 | [783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [637-average-of-levels-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/637-average-of-levels-in-binary-tree) |
 | [695-max-area-of-island](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/695-max-area-of-island) |
 | [783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [637-average-of-levels-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/637-average-of-levels-in-binary-tree) |
 | [703-kth-largest-element-in-a-stream](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/703-kth-largest-element-in-a-stream) |
 | [783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [530-minimum-absolute-difference-in-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/530-minimum-absolute-difference-in-bst) |
 | [703-kth-largest-element-in-a-stream](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/703-kth-largest-element-in-a-stream) |
 | [783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Hash Function
 |  |
 | ------- |
