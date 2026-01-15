@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [73-set-matrix-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/73-set-matrix-zeroes) |
 | [76-minimum-window-substring](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/76-minimum-window-substring) |
 | [105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [128-longest-consecutive-sequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/128-longest-consecutive-sequence) |
 | [138-copy-list-with-random-pointer](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/138-copy-list-with-random-pointer) |
 | [142-linked-list-cycle-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/142-linked-list-cycle-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [88-merge-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/88-merge-sorted-array) |
 | [90-subsets-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/90-subsets-ii) |
 | [105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [108-convert-sorted-array-to-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/108-convert-sorted-array-to-binary-search-tree) |
 | [121-best-time-to-buy-and-sell-stock](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/121-best-time-to-buy-and-sell-stock) |
 | [122-best-time-to-buy-and-sell-stock-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/122-best-time-to-buy-and-sell-stock-ii) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [102-binary-tree-level-order-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/102-binary-tree-level-order-traversal) |
 | [104-maximum-depth-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/104-maximum-depth-of-binary-tree) |
 | [105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [108-convert-sorted-array-to-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/108-convert-sorted-array-to-binary-search-tree) |
 | [110-balanced-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/110-balanced-binary-tree) |
 | [116-populating-next-right-pointers-in-each-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/116-populating-next-right-pointers-in-each-node) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [102-binary-tree-level-order-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/102-binary-tree-level-order-traversal) |
 | [104-maximum-depth-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/104-maximum-depth-of-binary-tree) |
 | [105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [108-convert-sorted-array-to-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/108-convert-sorted-array-to-binary-search-tree) |
 | [110-balanced-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/110-balanced-binary-tree) |
 | [116-populating-next-right-pointers-in-each-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/116-populating-next-right-pointers-in-each-node) |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [23-merge-k-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/23-merge-k-sorted-lists) |
 | [53-maximum-subarray](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/53-maximum-subarray) |
 | [105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [108-convert-sorted-array-to-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/108-convert-sorted-array-to-binary-search-tree) |
 | [169-majority-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/169-majority-element) |
 | [191-number-of-1-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/191-number-of-1-bits) |
