@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [543-diameter-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/543-diameter-of-binary-tree) |
 | [572-subtree-of-another-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/572-subtree-of-another-tree) |
 | [637-average-of-levels-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/637-average-of-levels-in-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [703-kth-largest-element-in-a-stream](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/703-kth-largest-element-in-a-stream) |
 | [783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [543-diameter-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/543-diameter-of-binary-tree) |
 | [572-subtree-of-another-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/572-subtree-of-another-tree) |
 | [637-average-of-levels-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/637-average-of-levels-in-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [695-max-area-of-island](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/695-max-area-of-island) |
 | [783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [543-diameter-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/543-diameter-of-binary-tree) |
 | [572-subtree-of-another-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/572-subtree-of-another-tree) |
 | [637-average-of-levels-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/637-average-of-levels-in-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [703-kth-largest-element-in-a-stream](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/703-kth-largest-element-in-a-stream) |
 | [783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [513-find-bottom-left-tree-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/513-find-bottom-left-tree-value) |
 | [530-minimum-absolute-difference-in-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/530-minimum-absolute-difference-in-bst) |
 | [637-average-of-levels-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/637-average-of-levels-in-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [695-max-area-of-island](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/695-max-area-of-island) |
 | [783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/783-minimum-distance-between-bst-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
