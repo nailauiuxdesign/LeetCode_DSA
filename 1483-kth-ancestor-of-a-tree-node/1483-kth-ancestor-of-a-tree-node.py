@@ -5,7 +5,6 @@ class TreeAncestor:
 
         for i in range(n):
             self.dp[i][0] = parent[i]
-
         for j in range(1, self.LOG):
             for i in range(n):
                 prev = self.dp[i][j - 1]
