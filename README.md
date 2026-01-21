@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [875-koko-eating-bananas](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/875-koko-eating-bananas) |
 | [912-sort-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/912-sort-an-array) |
 | [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [79-word-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/79-word-search) |
 | [200-number-of-islands](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/200-number-of-islands) |
 | [695-max-area-of-island](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
 |  |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [695-max-area-of-island](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/695-max-area-of-island) |
 | [783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/783-minimum-distance-between-bst-nodes) |
+| [0994-rotting-oranges](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Recursion
