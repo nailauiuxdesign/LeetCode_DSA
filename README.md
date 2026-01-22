@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [94-binary-tree-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/94-binary-tree-inorder-traversal) |
 | [98-validate-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/98-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [100-same-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/100-same-tree) |
 | [101-symmetric-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/101-symmetric-tree) |
 | [102-binary-tree-level-order-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/102-binary-tree-level-order-traversal) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [79-word-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/79-word-search) |
 | [94-binary-tree-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/94-binary-tree-inorder-traversal) |
 | [98-validate-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/98-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [100-same-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/100-same-tree) |
 | [101-symmetric-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/101-symmetric-tree) |
 | [104-maximum-depth-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/104-maximum-depth-of-binary-tree) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [94-binary-tree-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/94-binary-tree-inorder-traversal) |
 | [98-validate-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/98-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [100-same-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/100-same-tree) |
 | [101-symmetric-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/101-symmetric-tree) |
 | [102-binary-tree-level-order-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/102-binary-tree-level-order-traversal) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [98-validate-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/98-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [108-convert-sorted-array-to-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/108-convert-sorted-array-to-binary-search-tree) |
 | [230-kth-smallest-element-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/230-kth-smallest-element-in-a-bst) |
 | [235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/235-lowest-common-ancestor-of-a-binary-search-tree) |
