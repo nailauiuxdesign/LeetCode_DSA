@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [151-reverse-words-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/151-reverse-words-in-a-string) |
 | [208-implement-trie-prefix-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/208-implement-trie-prefix-tree) |
 | [242-valid-anagram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [344-reverse-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/344-reverse-string) |
 | [345-reverse-vowels-of-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/345-reverse-vowels-of-a-string) |
 | [387-first-unique-character-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/387-first-unique-character-in-a-string) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [230-kth-smallest-element-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/230-kth-smallest-element-in-a-bst) |
 | [235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [513-find-bottom-left-tree-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/513-find-bottom-left-tree-value) |
 | [530-minimum-absolute-difference-in-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/530-minimum-absolute-difference-in-bst) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [230-kth-smallest-element-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/230-kth-smallest-element-in-a-bst) |
 | [235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [430-flatten-a-multilevel-doubly-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/430-flatten-a-multilevel-doubly-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [513-find-bottom-left-tree-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/513-find-bottom-left-tree-value) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [230-kth-smallest-element-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/230-kth-smallest-element-in-a-bst) |
 | [235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [513-find-bottom-left-tree-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/513-find-bottom-left-tree-value) |
 | [530-minimum-absolute-difference-in-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/530-minimum-absolute-difference-in-bst) |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [199-binary-tree-right-side-view](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/199-binary-tree-right-side-view) |
 | [200-number-of-islands](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/200-number-of-islands) |
 | [226-invert-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [513-find-bottom-left-tree-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/513-find-bottom-left-tree-value) |
 | [530-minimum-absolute-difference-in-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/530-minimum-absolute-difference-in-bst) |
 | [637-average-of-levels-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/637-average-of-levels-in-binary-tree) |
@@ -556,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [208-implement-trie-prefix-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/208-implement-trie-prefix-tree) |
 | [225-implement-stack-using-queues](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/225-implement-stack-using-queues) |
 | [232-implement-queue-using-stacks](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [703-kth-largest-element-in-a-stream](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/703-kth-largest-element-in-a-stream) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Prefix Sum
