@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [567-permutation-in-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/567-permutation-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1695-maximum-erasure-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1695-maximum-erasure-value) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2965-find-missing-and-repeated-values](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [875-koko-eating-bananas](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Matrix
 |  |
 | ------- |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
