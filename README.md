@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3-longest-substring-without-repeating-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3-longest-substring-without-repeating-characters) |
 | [17-letter-combinations-of-a-phone-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/17-letter-combinations-of-a-phone-number) |
 | [36-valid-sudoku](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/36-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0037-sudoku-solver) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
 | [73-set-matrix-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/73-set-matrix-zeroes) |
 | [76-minimum-window-substring](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/76-minimum-window-substring) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [33-search-in-rotated-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/33-search-in-rotated-sorted-array) |
 | [35-search-insert-position](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/35-search-insert-position) |
 | [36-valid-sudoku](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/36-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0037-sudoku-solver) |
 | [39-combination-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/39-combination-sum) |
 | [40-combination-sum-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/40-combination-sum-ii) |
 | [42-trapping-rain-water](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/42-trapping-rain-water) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [36-valid-sudoku](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/36-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0037-sudoku-solver) |
 | [48-rotate-image](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/48-rotate-image) |
 | [54-spiral-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/54-spiral-matrix) |
 | [73-set-matrix-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/73-set-matrix-zeroes) |
@@ -653,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [17-letter-combinations-of-a-phone-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/17-letter-combinations-of-a-phone-number) |
 | [22-generate-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/22-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0037-sudoku-solver) |
 | [39-combination-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/39-combination-sum) |
 | [40-combination-sum-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/40-combination-sum-ii) |
 | [46-permutations](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/46-permutations) |
