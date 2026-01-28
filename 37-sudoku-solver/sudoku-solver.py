@@ -1,45 +1,45 @@
 class Solution:
     def solveSudoku(self, board: List[List[str]]) -> None:
-        rows = [set() for _ in range(9)]
-        cols = [set() for _ in range(9)]
-        boxes = [set() for _ in range(9)]
+        rows = [0] * 9
+        cols = [0] * 9
+        boxes = [0] * 9
+        empty = []
 
-        # Fill existing numbers into sets
         for r in range(9):
             for c in range(9):
-                if board[r][c] != '.':
-                    num = board[r][c]
-                    rows[r].add(num)
-                    cols[c].add(num)
-                    boxes[(r // 3) * 3 + (c // 3)].add(num)
+                if board[r][c] == '.':
+                    empty.append((r, c))
+                else:
+                    d = int(board[r][c]) - 1
+                    bit = 1 << d
+                    rows[r] |= bit
+                    cols[c] |= bit
+                    boxes[(r // 3) * 3 + c // 3] |= bit
 
-        def solve():
-            for r in range(9):
-                for c in range(9):
-                    if board[r][c] == '.':
-                        box_index = (r // 3) * 3 + (c // 3)
+        def backtrack(i):
+            if i == len(empty):
+                return True
 
-                        for num in '123456789':
-                            if (
-                                num not in rows[r] and
-                                num not in cols[c] and
-                                num not in boxes[box_index]
-                            ):
-                                board[r][c] = num
-                                rows[r].add(num)
-                                cols[c].add(num)
-                                boxes[box_index].add(num)
+            r, c = empty[i]
+            box = (r // 3) * 3 + c // 3
+            used = rows[r] | cols[c] | boxes[box]
 
-                                if solve():
-                                    return True
+            for d in range(9):
+                bit = 1 << d
+                if not (used & bit):
+                    board[r][c] = str(d + 1)
+                    rows[r] |= bit
+                    cols[c] |= bit
+                    boxes[box] |= bit
 
-                                # undo choice (backtrack)
-                                board[r][c] = '.'
-                                rows[r].remove(num)
-                                cols[c].remove(num)
-                                boxes[box_index].remove(num)
+                    if backtrack(i + 1):
+                        return True
 
-                        return False
-            return True
+                    board[r][c] = '.'
+                    rows[r] ^= bit
+                    cols[c] ^= bit
+                    boxes[box] ^= bit
 
-        solve()
+            return False
+
+        backtrack(0)
