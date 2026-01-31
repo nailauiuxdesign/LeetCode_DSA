@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [128-longest-consecutive-sequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/128-longest-consecutive-sequence) |
 | [138-copy-list-with-random-pointer](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0139-word-break) |
 | [142-linked-list-cycle-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/142-linked-list-cycle-ii) |
 | [169-majority-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/169-majority-element) |
 | [208-implement-trie-prefix-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/208-implement-trie-prefix-tree) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [79-word-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/79-word-search) |
 | [125-valid-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/125-valid-palindrome) |
 | [131-palindrome-partitioning](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0139-word-break) |
 | [151-reverse-words-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/151-reverse-words-in-a-string) |
 | [208-implement-trie-prefix-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/208-implement-trie-prefix-tree) |
 | [242-valid-anagram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/242-valid-anagram) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [128-longest-consecutive-sequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0134-gas-station) |
 | [136-single-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/136-single-number) |
+| [0139-word-break](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0139-word-break) |
 | [150-evaluate-reverse-polish-notation](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/150-evaluate-reverse-polish-notation) |
 | [153-find-minimum-in-rotated-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/153-find-minimum-in-rotated-sorted-array) |
 | [167-two-sum-ii-input-array-is-sorted](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/167-two-sum-ii-input-array-is-sorted) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [122-best-time-to-buy-and-sell-stock-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [131-palindrome-partitioning](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0139-word-break) |
 | [392-is-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/392-is-subsequence) |
 | [746-min-cost-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1013-fibonacci-number) |
@@ -511,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [70-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/70-climbing-stairs) |
+| [0139-word-break](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -568,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [14-longest-common-prefix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/14-longest-common-prefix) |
+| [0139-word-break](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0139-word-break) |
 | [208-implement-trie-prefix-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/208-implement-trie-prefix-tree) |
 ## Design
 |  |
