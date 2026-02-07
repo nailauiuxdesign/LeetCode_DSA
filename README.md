@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0494-target-sum) |
 | [496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/496-next-greater-element-i) |
 | [503-next-greater-element-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/503-next-greater-element-ii) |
 | [540-single-element-in-a-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/540-single-element-in-a-sorted-array) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0322-coin-change) |
 | [392-is-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [746-min-cost-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1013-fibonacci-number) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [79-word-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/79-word-search) |
 | [90-subsets-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/90-subsets-ii) |
 | [131-palindrome-partitioning](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0494-target-sum) |
 ## Queue
 |  |
 | ------- |
