@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [504-base-7](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/504-base-7) |
 | [567-permutation-in-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/567-permutation-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1143-longest-common-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1447-simplified-fractions](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1447-simplified-fractions) |
 | [1768-merge-strings-alternately](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [746-min-cost-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1013-fibonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1013-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Stack
 |  |
