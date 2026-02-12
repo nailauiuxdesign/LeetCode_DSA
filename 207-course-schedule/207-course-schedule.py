@@ -1,6 +1,5 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: list[list[int]]) -> bool:
-        
         graph = [[] for _ in range(numCourses)]
         state = [0] * numCourses
 
