@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [145-binary-tree-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/145-binary-tree-postorder-traversal) |
 | [199-binary-tree-right-side-view](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/199-binary-tree-right-side-view) |
 | [200-number-of-islands](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/200-number-of-islands) |
+| [0207-course-schedule](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0207-course-schedule) |
 | [226-invert-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/226-invert-binary-tree) |
 | [230-kth-smallest-element-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/230-kth-smallest-element-in-a-bst) |
 | [235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [116-populating-next-right-pointers-in-each-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/116-populating-next-right-pointers-in-each-node) |
 | [199-binary-tree-right-side-view](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/199-binary-tree-right-side-view) |
 | [200-number-of-islands](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/200-number-of-islands) |
+| [0207-course-schedule](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0207-course-schedule) |
 | [226-invert-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0322-coin-change) |
@@ -757,5 +759,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0207-course-schedule) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
