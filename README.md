@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0051-n-queens) |
 | [53-maximum-subarray](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/53-maximum-subarray) |
 | [54-spiral-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/54-spiral-matrix) |
+| [0055-jump-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0055-jump-game) |
 | [56-merge-intervals](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/56-merge-intervals) |
 | [57-insert-interval](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/57-insert-interval) |
 | [66-plus-one](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/66-plus-one) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [45-jump-game-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/45-jump-game-ii) |
+| [0055-jump-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0055-jump-game) |
 | [122-best-time-to-buy-and-sell-stock-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0455-assign-cookies) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [42-trapping-rain-water](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/42-trapping-rain-water) |
 | [45-jump-game-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/45-jump-game-ii) |
 | [53-maximum-subarray](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/53-maximum-subarray) |
+| [0055-jump-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0062-unique-paths) |
 | [70-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/70-climbing-stairs) |
 | [121-best-time-to-buy-and-sell-stock](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/121-best-time-to-buy-and-sell-stock) |
