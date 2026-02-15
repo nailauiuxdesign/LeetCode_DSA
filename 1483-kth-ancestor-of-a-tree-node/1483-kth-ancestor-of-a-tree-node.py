@@ -18,4 +18,5 @@ class TreeAncestor:
                 node = self.dp[node][bit]
             k >>= 1
             bit += 1
+            
         return node
