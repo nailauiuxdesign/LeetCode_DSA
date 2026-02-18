@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [28-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/28-find-the-index-of-the-first-occurrence-in-a-string) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
+| [0072-edit-distance](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0072-edit-distance) |
 | [76-minimum-window-substring](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/76-minimum-window-substring) |
 | [79-word-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/79-word-search) |
 | [125-valid-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/125-valid-palindrome) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [55-jump-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/55-jump-game) |
 | [62-unique-paths](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/62-unique-paths) |
 | [70-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/70-climbing-stairs) |
+| [0072-edit-distance](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0072-edit-distance) |
 | [121-best-time-to-buy-and-sell-stock](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/121-best-time-to-buy-and-sell-stock) |
 | [122-best-time-to-buy-and-sell-stock-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/122-best-time-to-buy-and-sell-stock-ii) |
 | [124-binary-tree-maximum-path-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/124-binary-tree-maximum-path-sum) |
