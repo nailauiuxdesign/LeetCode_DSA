@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
 | [283-move-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/283-move-zeroes) |
 | [287-find-the-duplicate-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [322-coin-change](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/322-coin-change) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [209-minimum-size-subarray-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/209-minimum-size-subarray-sum) |
 | [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
 | [287-find-the-duplicate-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
 | [378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/378-kth-smallest-element-in-a-sorted-matrix) |
 | [540-single-element-in-a-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/540-single-element-in-a-sorted-array) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [131-palindrome-partitioning](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/131-palindrome-partitioning) |
 | [139-word-break](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/139-word-break) |
 | [198-house-robber](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [322-coin-change](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/322-coin-change) |
 | [392-is-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/392-is-subsequence) |
 | [416-partition-equal-subset-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/416-partition-equal-subset-sum) |
