@@ -8,12 +8,15 @@ class Solution:
             if cbit == 1:
                 if (abit | bbit) != 1:
                     flips += 1
+                    
             else:
                 if abit == 1:
                     flips += 1
                 if bbit == 1:
                     flips += 1
+                    
             a >>= 1
             b >>= 1
             c >>= 1
+            
         return flips
