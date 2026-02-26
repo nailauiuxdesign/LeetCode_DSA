@@ -1,4 +1,6 @@
-<h2><a href="https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c">1441. Minimum Flips to Make a OR b Equal to c</a></h2><h3>Medium</h3><hr><p>Given 3 positives numbers <code>a</code>, <code>b</code> and <code>c</code>. Return the minimum flips required in some bits of <code>a</code> and <code>b</code> to make (&nbsp;<code>a</code> OR <code>b</code> == <code>c</code>&nbsp;). (bitwise OR operation).<br />
+<h2><a href="https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c">1441. Minimum Flips to Make a OR b Equal to c</a></h2>
+<img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr>
+<p>Given 3 positives numbers <code>a</code>, <code>b</code> and <code>c</code>. Return the minimum flips required in some bits of <code>a</code> and <code>b</code> to make (&nbsp;<code>a</code> OR <code>b</code> == <code>c</code>&nbsp;). (bitwise OR operation).<br />
 Flip operation&nbsp;consists of change&nbsp;<strong>any</strong>&nbsp;single bit 1 to 0 or change the bit 0 to 1&nbsp;in their binary representation.</p>
 
 <p>&nbsp;</p>
@@ -32,4 +34,5 @@ Flip operation&nbsp;consists of change&nbsp;<strong>any</strong>&nbsp;single bit
 	<li><code>1 &lt;= a &lt;= 10^9</code></li>
 	<li><code>1 &lt;= b&nbsp;&lt;= 10^9</code></li>
 	<li><code>1 &lt;= c&nbsp;&lt;= 10^9</code></li>
+
 </ul>
