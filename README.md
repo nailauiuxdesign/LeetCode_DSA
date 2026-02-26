@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
 | [287-find-the-duplicate-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0461-hamming-distance) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
