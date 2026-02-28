@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [78-subsets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/78-subsets) |
 | [90-subsets-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/90-subsets-ii) |
 | [136-single-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/136-single-number) |
+| [0190-reverse-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0190-reverse-bits) |
 | [191-number-of-1-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0231-power-of-two) |
 | [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [108-convert-sorted-array-to-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/108-convert-sorted-array-to-binary-search-tree) |
 | [169-majority-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/169-majority-element) |
+| [0190-reverse-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0190-reverse-bits) |
 | [191-number-of-1-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/191-number-of-1-bits) |
 | [215-kth-largest-element-in-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/215-kth-largest-element-in-an-array) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
