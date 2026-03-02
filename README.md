@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [136-single-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/136-single-number) |
 | [139-word-break](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/139-word-break) |
 | [150-evaluate-reverse-polish-notation](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0152-maximum-product-subarray) |
 | [153-find-minimum-in-rotated-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/153-find-minimum-in-rotated-sorted-array) |
 | [167-two-sum-ii-input-array-is-sorted](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/167-two-sum-ii-input-array-is-sorted) |
 | [169-majority-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/169-majority-element) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [124-binary-tree-maximum-path-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/124-binary-tree-maximum-path-sum) |
 | [131-palindrome-partitioning](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/131-palindrome-partitioning) |
 | [139-word-break](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0152-maximum-product-subarray) |
 | [198-house-robber](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [322-coin-change](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/322-coin-change) |
