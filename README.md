@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
 | [69-sqrtx](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/69-sqrtx) |
 | [70-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/70-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [150-evaluate-reverse-polish-notation](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0231-power-of-two) |
 | [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [62-unique-paths](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/62-unique-paths) |
 | [70-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/70-climbing-stairs) |
 | [0072-edit-distance](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [121-best-time-to-buy-and-sell-stock](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/121-best-time-to-buy-and-sell-stock) |
 | [122-best-time-to-buy-and-sell-stock-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/122-best-time-to-buy-and-sell-stock-ii) |
 | [124-binary-tree-maximum-path-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/124-binary-tree-maximum-path-sum) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [94-binary-tree-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/94-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [98-validate-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/98-validate-binary-search-tree) |
 | [99-recover-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/99-recover-binary-search-tree) |
 | [100-same-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/100-same-tree) |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [94-binary-tree-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/94-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [98-validate-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/98-validate-binary-search-tree) |
 | [99-recover-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/99-recover-binary-search-tree) |
 | [100-same-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/100-same-tree) |
@@ -698,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [98-validate-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/98-validate-binary-search-tree) |
 | [99-recover-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/99-recover-binary-search-tree) |
 | [108-convert-sorted-array-to-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/108-convert-sorted-array-to-binary-search-tree) |
