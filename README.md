@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [424-longest-repeating-character-replacement](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/424-longest-repeating-character-replacement) |
 | [443-string-compression](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/443-string-compression) |
 | [504-base-7](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/504-base-7) |
+| [516-longest-palindromic-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/516-longest-palindromic-subsequence) |
 | [567-permutation-in-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/567-permutation-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [392-is-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/392-is-subsequence) |
 | [416-partition-equal-subset-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/416-partition-equal-subset-sum) |
 | [494-target-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/494-target-sum) |
+| [516-longest-palindromic-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/516-longest-palindromic-subsequence) |
 | [646-maximum-length-of-pair-chain](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/646-maximum-length-of-pair-chain) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [746-min-cost-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/746-min-cost-climbing-stairs) |
