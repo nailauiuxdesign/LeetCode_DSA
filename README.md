@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [516-longest-palindromic-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/516-longest-palindromic-subsequence) |
 | [567-permutation-in-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1297-maximum-number-of-balloons) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [54-spiral-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/54-spiral-matrix) |
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
 | [682-baseball-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [455-assign-cookies](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/455-assign-cookies) |
 | [567-permutation-in-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String Matching
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [503-next-greater-element-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/503-next-greater-element-ii) |
 | [682-baseball-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/682-baseball-game) |
 | [739-daily-temperatures](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1856-maximum-subarray-min-product](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1856-maximum-subarray-min-product) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
