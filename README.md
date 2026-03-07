@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2058-concatenation-of-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2350-find-closest-number-to-zero](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2350-find-closest-number-to-zero) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2965-find-missing-and-repeated-values](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Simulation
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Math
 |  |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0844-backspace-string-compare](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## String Matching
 |  |
 | ------- |
@@ -634,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1014-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1127-last-stone-weight) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Bucket Sort
 |  |
 | ------- |
