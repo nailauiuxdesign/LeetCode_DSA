@@ -1,5 +1,6 @@
 class Solution:
     def pairSum(self, head: Optional[ListNode]) -> int:
+        
         slow = fast = head
 
         #find mid
