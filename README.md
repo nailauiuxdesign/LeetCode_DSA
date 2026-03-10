@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [567-permutation-in-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/567-permutation-in-string) |
 | [632-smallest-range-covering-elements-from-k-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/632-smallest-range-covering-elements-from-k-lists) |
 | [1297-maximum-number-of-balloons](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Array
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-last-stone-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1127-last-stone-weight) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1856-maximum-subarray-min-product](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1856-maximum-subarray-min-product) |
 | [2058-concatenation-of-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2058-concatenation-of-array) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0680-valid-palindrome-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
