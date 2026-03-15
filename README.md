@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [455-assign-cookies](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/455-assign-cookies) |
 | [632-smallest-range-covering-elements-from-k-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/632-smallest-range-covering-elements-from-k-lists) |
 | [646-maximum-length-of-pair-chain](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/646-maximum-length-of-pair-chain) |
+| [0881-boats-to-save-people](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0881-boats-to-save-people) |
 | [912-sort-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/912-sort-an-array) |
 | [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [746-min-cost-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/746-min-cost-climbing-stairs) |
 | [852-peak-index-in-a-mountain-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/852-peak-index-in-a-mountain-array) |
 | [875-koko-eating-bananas](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0881-boats-to-save-people) |
 | [912-sort-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/912-sort-an-array) |
 | [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
 | [983-minimum-cost-for-tickets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/983-minimum-cost-for-tickets) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [632-smallest-range-covering-elements-from-k-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/632-smallest-range-covering-elements-from-k-lists) |
 | [646-maximum-length-of-pair-chain](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/646-maximum-length-of-pair-chain) |
 | [0680-valid-palindrome-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0647-palindromic-substrings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0881-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1894-merge-strings-alternately) |
