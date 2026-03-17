@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [572-subtree-of-another-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/572-subtree-of-another-tree) |
 | [637-average-of-levels-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/637-average-of-levels-in-binary-tree) |
 | [662-maximum-width-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [703-kth-largest-element-in-a-stream](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/703-kth-largest-element-in-a-stream) |
 | [783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0938-range-sum-of-bst) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [572-subtree-of-another-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/572-subtree-of-another-tree) |
 | [637-average-of-levels-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/637-average-of-levels-in-binary-tree) |
 | [662-maximum-width-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [703-kth-largest-element-in-a-stream](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/703-kth-largest-element-in-a-stream) |
 | [783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0938-range-sum-of-bst) |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [450-delete-node-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/450-delete-node-in-a-bst) |
 | [530-minimum-absolute-difference-in-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/530-minimum-absolute-difference-in-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [703-kth-largest-element-in-a-stream](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/703-kth-largest-element-in-a-stream) |
 | [783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0938-range-sum-of-bst) |
