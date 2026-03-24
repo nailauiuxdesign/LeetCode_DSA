@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [345-reverse-vowels-of-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/345-reverse-vowels-of-a-string) |
 | [387-first-unique-character-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/387-first-unique-character-in-a-string) |
 | [392-is-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/392-is-subsequence) |
+| [0394-decode-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0394-decode-string) |
 | [424-longest-repeating-character-replacement](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/424-longest-repeating-character-replacement) |
 | [443-string-compression](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/443-string-compression) |
 | [504-base-7](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/504-base-7) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [225-implement-stack-using-queues](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/225-implement-stack-using-queues) |
 | [232-implement-queue-using-stacks](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/232-implement-queue-using-stacks) |
 | [234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0394-decode-string) |
 | [496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/496-next-greater-element-i) |
 | [503-next-greater-element-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/503-next-greater-element-ii) |
 | [682-baseball-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/682-baseball-game) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [206-reverse-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0231-power-of-two) |
 | [234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
