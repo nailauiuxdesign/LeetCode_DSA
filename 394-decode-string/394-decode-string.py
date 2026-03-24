@@ -16,5 +16,4 @@ class Solution:
                 curr = prev_str + curr * repeat
             else:
                 curr += ch
-
         return curr
