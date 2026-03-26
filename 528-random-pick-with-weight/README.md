@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/random-pick-with-weight">912. Random Pick with Weight</a></h2>
+<h2><a href="https://leetcode.com/problems/random-pick-with-weight">528. Random Pick with Weight</a></h2>
 <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr>
 <p>You are given a <strong>0-indexed</strong> array of positive integers <code>w</code> where <code>w[i]</code> describes the <strong>weight</strong> of the <code>i<sup>th</sup></code> index.</p>
 
