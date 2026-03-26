@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [494-target-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/494-target-sum) |
 | [496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/496-next-greater-element-i) |
 | [503-next-greater-element-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/503-next-greater-element-ii) |
+| [0528-random-pick-with-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0528-random-pick-with-weight) |
 | [540-single-element-in-a-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/540-single-element-in-a-sorted-array) |
 | [560-subarray-sum-equals-k](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/560-subarray-sum-equals-k) |
 | [605-can-place-flowers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/605-can-place-flowers) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0371-sum-of-two-integers) |
 | [504-base-7](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/504-base-7) |
+| [0528-random-pick-with-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0528-random-pick-with-weight) |
 | [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
 | [378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/378-kth-smallest-element-in-a-sorted-matrix) |
+| [0528-random-pick-with-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0528-random-pick-with-weight) |
 | [540-single-element-in-a-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/540-single-element-in-a-sorted-array) |
 | [704-binary-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -737,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [209-minimum-size-subarray-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/209-minimum-size-subarray-sum) |
 | [238-product-of-array-except-self](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/238-product-of-array-except-self) |
 | [238-product-of-array-except-self](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/238-product-of-array-except-self) |
+| [0528-random-pick-with-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0528-random-pick-with-weight) |
 | [560-subarray-sum-equals-k](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1856-maximum-subarray-min-product](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1856-maximum-subarray-min-product) |
@@ -891,4 +895,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
