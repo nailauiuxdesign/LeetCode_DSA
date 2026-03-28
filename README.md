@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2-add-two-numbers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0009-palindrome-number) |
 | [48-rotate-image](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/48-rotate-image) |
 | [50-powx-n](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/50-powx-n) |
 | [62-unique-paths](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/62-unique-paths) |
