@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1137-n-th-tribonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1447-simplified-fractions](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1447-simplified-fractions) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [746-min-cost-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/746-min-cost-climbing-stairs) |
 | [983-minimum-cost-for-tickets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/983-minimum-cost-for-tickets) |
 | [1013-fibonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Stack
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [70-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/70-climbing-stairs) |
 | [139-word-break](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/139-word-break) |
 | [1013-fibonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
