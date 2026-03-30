@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0680-valid-palindrome-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1447-simplified-fractions](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1447-simplified-fractions) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
