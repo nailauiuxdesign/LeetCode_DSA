@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1014-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1447-simplified-fractions](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1447-simplified-fractions) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
