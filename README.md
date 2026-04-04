@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1932-merge-bsts-to-create-single-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2336-smallest-number-in-infinite-set](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2965-find-missing-and-repeated-values](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1014-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1127-last-stone-weight) |
+| [2336-smallest-number-in-infinite-set](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## Bucket Sort
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [703-kth-largest-element-in-a-stream](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0901-online-stock-span) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2336-smallest-number-in-infinite-set](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -916,4 +919,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0528-random-pick-with-weight) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
