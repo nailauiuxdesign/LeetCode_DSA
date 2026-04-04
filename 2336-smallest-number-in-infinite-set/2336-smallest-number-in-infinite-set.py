@@ -1,5 +1,4 @@
 import heapq
-
 class SmallestInfiniteSet:
     def __init__(self):
         self.next_num = 1
