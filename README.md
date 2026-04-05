@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [139-word-break](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/139-word-break) |
 | [151-reverse-words-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/151-reverse-words-in-a-string) |
 | [208-implement-trie-prefix-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [242-valid-anagram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/242-valid-anagram) |
 | [297-serialize-and-deserialize-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/297-serialize-and-deserialize-binary-tree) |
 | [344-reverse-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/344-reverse-string) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [200-number-of-islands](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/200-number-of-islands) |
 | [207-course-schedule](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [226-invert-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/226-invert-binary-tree) |
 | [230-kth-smallest-element-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/230-kth-smallest-element-in-a-bst) |
 | [235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -740,12 +742,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [14-longest-common-prefix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/14-longest-common-prefix) |
 | [139-word-break](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/139-word-break) |
 | [208-implement-trie-prefix-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Design
 |  |
 | ------- |
 | [155-min-stack](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/155-min-stack) |
 | [173-binary-search-tree-iterator](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/173-binary-search-tree-iterator) |
 | [208-implement-trie-prefix-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [225-implement-stack-using-queues](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/225-implement-stack-using-queues) |
 | [232-implement-queue-using-stacks](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/232-implement-queue-using-stacks) |
 | [295-find-median-from-data-stream](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/295-find-median-from-data-stream) |
