@@ -756,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [297-serialize-and-deserialize-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/297-serialize-and-deserialize-binary-tree) |
 | [703-kth-largest-element-in-a-stream](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2336-smallest-number-in-infinite-set](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Prefix Sum
@@ -868,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [232-implement-queue-using-stacks](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/232-implement-queue-using-stacks) |
 | [239-sliding-window-maximum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/239-sliding-window-maximum) |
 | [387-first-unique-character-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
@@ -875,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [295-find-median-from-data-stream](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/295-find-median-from-data-stream) |
 | [703-kth-largest-element-in-a-stream](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
