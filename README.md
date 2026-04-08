@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/236-lowest-common-ancestor-of-a-binary-tree) |
 | [297-serialize-and-deserialize-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/297-serialize-and-deserialize-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [450-delete-node-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/450-delete-node-in-a-bst) |
 | [513-find-bottom-left-tree-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/513-find-bottom-left-tree-value) |
 | [530-minimum-absolute-difference-in-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/530-minimum-absolute-difference-in-bst) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/236-lowest-common-ancestor-of-a-binary-tree) |
 | [297-serialize-and-deserialize-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/297-serialize-and-deserialize-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [430-flatten-a-multilevel-doubly-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/430-flatten-a-multilevel-doubly-linked-list) |
 | [513-find-bottom-left-tree-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/513-find-bottom-left-tree-value) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/236-lowest-common-ancestor-of-a-binary-tree) |
 | [297-serialize-and-deserialize-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/297-serialize-and-deserialize-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [450-delete-node-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/450-delete-node-in-a-bst) |
 | [513-find-bottom-left-tree-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/513-find-bottom-left-tree-value) |
 | [530-minimum-absolute-difference-in-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/530-minimum-absolute-difference-in-bst) |
@@ -642,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [226-invert-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/226-invert-binary-tree) |
 | [297-serialize-and-deserialize-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/297-serialize-and-deserialize-binary-tree) |
 | [322-coin-change](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/322-coin-change) |
+| [0404-sum-of-left-leaves](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [513-find-bottom-left-tree-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/513-find-bottom-left-tree-value) |
 | [530-minimum-absolute-difference-in-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/530-minimum-absolute-difference-in-bst) |
