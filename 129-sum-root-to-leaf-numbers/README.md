@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sum-root-to-leaf-numbers">Sum Root to Leaf Numbers</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given the <code>root</code> of a binary tree containing digits from <code>0</code> to <code>9</code> only.</p>
+<h2><a href="https://leetcode.com/problems/129-sum-root-to-leaf-numbers">Sum Root to Leaf Numbers</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given the <code>root</code> of a binary tree containing digits from <code>0</code> to <code>9</code> only.</p>
 
 <p>Each root-to-leaf path in the tree represents a number.</p>
 
