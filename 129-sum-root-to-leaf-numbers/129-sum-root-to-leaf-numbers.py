@@ -16,4 +16,5 @@ class Solution:
             dfs(node.right, curr)
 
         dfs(root, 0)
+        
         return self.total
