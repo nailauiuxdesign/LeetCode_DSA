@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Depth-First Search
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Breadth-First Search
 |  |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [783-minimum-distance-between-bst-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/783-minimum-distance-between-bst-nodes) |
 | [994-rotting-oranges](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
