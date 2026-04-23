@@ -1,5 +1,4 @@
 from collections import deque
-
 class Solution:
     def nearestExit(self, maze, entrance):
         rows, cols = len(maze), len(maze[0])
