@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1679-max-number-of-k-sum-pairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1856-maximum-subarray-min-product](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1856-maximum-subarray-min-product) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2058-concatenation-of-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [695-max-area-of-island](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/695-max-area-of-island) |
 | [733-flood-fill](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/733-flood-fill) |
 | [994-rotting-oranges](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/994-rotting-oranges) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2965-find-missing-and-repeated-values](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
 |  |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Recursion
 |  |
