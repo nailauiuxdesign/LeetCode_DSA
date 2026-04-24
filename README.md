@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [912-sort-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/912-sort-an-array) |
 | [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
 | [983-minimum-cost-for-tickets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/983-minimum-cost-for-tickets) |
+| [0986-interval-list-intersections](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0986-interval-list-intersections) |
 | [994-rotting-oranges](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0680-valid-palindrome-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0881-boats-to-save-people) |
+| [0986-interval-list-intersections](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0986-interval-list-intersections) |
 | [1019-squares-of-a-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -453,8 +455,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [198-house-robber](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [322-coin-change](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/322-coin-change) |
-| [377-combination-sum-iv](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/377-combination-sum-iv) |
 | [0338-counting-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0338-counting-bits) |
+| [377-combination-sum-iv](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/377-combination-sum-iv) |
 | [392-is-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/392-is-subsequence) |
 | [416-partition-equal-subset-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/416-partition-equal-subset-sum) |
 | [494-target-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/494-target-sum) |
@@ -959,4 +961,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
