@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [695-max-area-of-island](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/695-max-area-of-island) |
 | [704-binary-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0724-find-pivot-index](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0724-find-pivot-index) |
 | [733-flood-fill](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0735-asteroid-collision) |
 | [739-daily-temperatures](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/739-daily-temperatures) |
@@ -798,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [238-product-of-array-except-self](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/238-product-of-array-except-self) |
 | [0528-random-pick-with-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0528-random-pick-with-weight) |
 | [560-subarray-sum-equals-k](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1732-find-the-highest-altitude](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/1732-find-the-highest-altitude) |
