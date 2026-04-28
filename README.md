@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0621-task-scheduler) |
 | [632-smallest-range-covering-elements-from-k-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0767-reorganize-string) |
+| [0929-unique-email-addresses](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0929-unique-email-addresses) |
 | [1297-maximum-number-of-balloons](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1695-maximum-erasure-value) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0680-valid-palindrome-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
+| [0929-unique-email-addresses](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0929-unique-email-addresses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [875-koko-eating-bananas](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0881-boats-to-save-people) |
 | [912-sort-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/912-sort-an-array) |
+| [0929-unique-email-addresses](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0929-unique-email-addresses) |
 | [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
 | [983-minimum-cost-for-tickets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/983-minimum-cost-for-tickets) |
 | [0986-interval-list-intersections](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0986-interval-list-intersections) |
