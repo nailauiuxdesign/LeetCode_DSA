@@ -1,5 +1,6 @@
 class Solution:
     def eraseOverlapIntervals(self, intervals):
+        
         if not intervals:
             return 0
 
