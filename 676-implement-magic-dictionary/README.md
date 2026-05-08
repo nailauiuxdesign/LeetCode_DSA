@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/implement-magic-dictionary">676. Implement Magic Dictionary</a></h2><h3>Medium</h3><hr><p>Design a data structure that is initialized with a list of <strong>different</strong> words. Provided a string, you should determine if you can change exactly one character in this string to match any word in the data structure.</p>
+<h2><a href="https://leetcode.com/problems/implement-magic-dictionary">676. Implement Magic Dictionary</a></h2><img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr>
+<p>Design a data structure that is initialized with a list of <strong>different</strong> words. Provided a string, you should determine if you can change exactly one character in this string to match any word in the data structure.</p>
 
 <p>Implement the&nbsp;<code>MagicDictionary</code>&nbsp;class:</p>
 
