@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2390-removing-stars-from-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3280-convert-date-to-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3280-convert-date-to-binary) |
 ## Sorting
 |  |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2390-removing-stars-from-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Math
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1856-maximum-subarray-min-product](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1856-maximum-subarray-min-product) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
