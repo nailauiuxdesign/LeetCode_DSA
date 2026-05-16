@@ -872,7 +872,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
 | [206-reverse-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/206-reverse-linked-list) |
 | [234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/234-palindrome-linked-list) |
-| [0328-odd-even-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0328-odd-even-linked-list) |
+| [328-odd-even-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/328-odd-even-linked-list) |
+| [237-delete-node-in-a-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/237-delete-node-in-a-linked-list) |
 | [430-flatten-a-multilevel-doubly-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/430-flatten-a-multilevel-doubly-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -997,7 +998,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [207-course-schedule](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/207-course-schedule) |
-| [0210-course-schedule-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0210-course-schedule-ii) |
+| [210-course-schedule-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/210-course-schedule-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1005,11 +1006,11 @@ A collection of LeetCode questions to ace the coding interview!
 ## Rolling Hash
 |  |
 | ------- |
-| [0718-maximum-length-of-repeated-subarray](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [718-maximum-length-of-repeated-subarray](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/718-maximum-length-of-repeated-subarray) |
 ## Randomized
 |  |
 | ------- |
-| [0528-random-pick-with-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0528-random-pick-with-weight) |
+| [528-random-pick-with-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/528-random-pick-with-weight) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1017,5 +1018,5 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sweep Line
 |  |
 | ------- |
-| [0986-interval-list-intersections](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0986-interval-list-intersections) |
+| [986-interval-list-intersections](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/986-interval-list-intersections) |
 <!---LeetCode Topics End-->
