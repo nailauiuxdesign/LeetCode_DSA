@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [55-jump-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/55-jump-game) |
 | [56-merge-intervals](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/56-merge-intervals) |
 | [57-insert-interval](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/57-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0064-minimum-path-sum) |
 | [66-plus-one](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/66-plus-one) |
 | [73-set-matrix-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/73-set-matrix-zeroes) |
 | [74-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/74-search-a-2d-matrix) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [37-sudoku-solver](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/37-sudoku-solver) |
 | [48-rotate-image](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/48-rotate-image) |
 | [54-spiral-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/54-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0064-minimum-path-sum) |
 | [73-set-matrix-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/73-set-matrix-zeroes) |
 | [74-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/74-search-a-2d-matrix) |
 | [79-word-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/79-word-search) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [53-maximum-subarray](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/53-maximum-subarray) |
 | [55-jump-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/55-jump-game) |
 | [62-unique-paths](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/62-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0064-minimum-path-sum) |
 | [70-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/70-climbing-stairs) |
 | [0072-edit-distance](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0091-decode-ways) |
