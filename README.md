@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2336-smallest-number-in-infinite-set](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
+| [2352-equal-row-and-column-pairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2073-time-needed-to-buy-tickets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2350-find-closest-number-to-zero](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2350-find-closest-number-to-zero) |
+| [2352-equal-row-and-column-pairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2965-find-missing-and-repeated-values](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2352-equal-row-and-column-pairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [733-flood-fill](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/733-flood-fill) |
 | [994-rotting-oranges](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2352-equal-row-and-column-pairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
 |  |
