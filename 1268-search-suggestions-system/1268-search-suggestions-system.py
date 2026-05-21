@@ -7,6 +7,7 @@ class Solution:
     def suggestedProducts(self, products, searchWord):
         root = TrieNode()
         result = []
+        
         products.sort()
 
         for word in products:
