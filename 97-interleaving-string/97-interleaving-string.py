@@ -2,6 +2,7 @@ class Solution:
     def isInterleave(self, s1: str, s2: str, s3: str) -> bool:
         n = len(s1)
         m = len(s2)
+        
         # lengths must match
         if n + m != len(s3):
             return False
