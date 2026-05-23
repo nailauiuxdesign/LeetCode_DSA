@@ -752,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [25-reverse-nodes-in-k-group](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/25-reverse-nodes-in-k-group) |
 | [50-powx-n](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/50-powx-n) |
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [206-reverse-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0231-power-of-two) |
 | [234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/234-palindrome-linked-list) |
@@ -889,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [138-copy-list-with-random-pointer](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/138-copy-list-with-random-pointer) |
 | [142-linked-list-cycle-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/142-linked-list-cycle-ii) |
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [206-reverse-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/206-reverse-linked-list) |
 | [234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/234-palindrome-linked-list) |
 | [237-delete-node-in-a-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/237-delete-node-in-a-linked-list) |
