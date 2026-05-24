@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1695-maximum-erasure-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2336-smallest-number-in-infinite-set](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2058-concatenation-of-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2350-find-closest-number-to-zero](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2352-equal-row-and-column-pairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
