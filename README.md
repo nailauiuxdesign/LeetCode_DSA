@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0767-reorganize-string) |
 | [904-fruit-into-baskets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0929-unique-email-addresses) |
+| [1207-unique-number-of-occurrences](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1297-maximum-number-of-balloons](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1019-squares-of-a-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1127-last-stone-weight) |
+| [1207-unique-number-of-occurrences](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1268-search-suggestions-system) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
