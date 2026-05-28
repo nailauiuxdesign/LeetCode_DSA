@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [22-generate-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/22-generate-parentheses) |
 | [28-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/28-find-the-index-of-the-first-occurrence-in-a-string) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0058-length-of-last-word) |
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
 | [0071-simplify-path](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0072-edit-distance) |
