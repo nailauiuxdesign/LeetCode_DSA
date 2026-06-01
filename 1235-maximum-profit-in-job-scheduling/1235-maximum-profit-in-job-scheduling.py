@@ -10,7 +10,7 @@ class Solution:
             while heap and heap[0][0] <= start:
                 best_profit = max(best_profit, heapq.heappop(heap)[1])
             heapq.heappush(heap, (end, best_profit + money))
-
+            
         while heap:
             best_profit = max(best_profit, heapq.heappop(heap)[1])
 
