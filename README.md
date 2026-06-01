@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1268-search-suggestions-system](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1268-search-suggestions-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-last-stone-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1127-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1268-search-suggestions-system](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1268-search-suggestions-system) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [852-peak-index-in-a-mountain-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/852-peak-index-in-a-mountain-array) |
 | [875-koko-eating-bananas](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1268-search-suggestions-system](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1268-search-suggestions-system) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1013-fibonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
