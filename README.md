@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3-longest-substring-without-repeating-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [6-zigzag-conversion](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/6-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [14-longest-common-prefix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/14-longest-common-prefix) |
 | [17-letter-combinations-of-a-phone-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/17-letter-combinations-of-a-phone-number) |
 | [20-valid-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/20-valid-parentheses) |
