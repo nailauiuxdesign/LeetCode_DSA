@@ -1,7 +1,6 @@
 class Solution:
     def convertToTitle(self, columnNumber):
         result = ""
-
         while columnNumber > 0:
             columnNumber -= 1
             letter = chr(ord("A") + columnNumber % 26)
