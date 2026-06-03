@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [131-palindrome-partitioning](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/131-palindrome-partitioning) |
 | [139-word-break](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/139-word-break) |
 | [151-reverse-words-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0205-isomorphic-strings) |
 | [208-implement-trie-prefix-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [70-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/70-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [150-evaluate-reverse-polish-notation](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/150-evaluate-reverse-polish-notation) |
+| [0168-excel-sheet-column-title](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0231-power-of-two) |
 | [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
