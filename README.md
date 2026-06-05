@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1019-squares-of-a-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1268-search-suggestions-system](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1268-search-suggestions-system) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1695-maximum-erasure-value) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Stack
 |  |
 | ------- |
