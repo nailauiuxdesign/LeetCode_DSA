@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [208-implement-trie-prefix-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [242-valid-anagram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0257-binary-tree-paths) |
 | [297-serialize-and-deserialize-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/297-serialize-and-deserialize-binary-tree) |
 | [344-reverse-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/344-reverse-string) |
 | [345-reverse-vowels-of-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/345-reverse-vowels-of-a-string) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [230-kth-smallest-element-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/230-kth-smallest-element-in-a-bst) |
 | [235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0257-binary-tree-paths) |
 | [297-serialize-and-deserialize-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0437-path-sum-iii) |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [230-kth-smallest-element-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/230-kth-smallest-element-in-a-bst) |
 | [235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0257-binary-tree-paths) |
 | [297-serialize-and-deserialize-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -718,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [230-kth-smallest-element-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/230-kth-smallest-element-in-a-bst) |
 | [235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0257-binary-tree-paths) |
 | [297-serialize-and-deserialize-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0437-path-sum-iii) |
@@ -991,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [90-subsets-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/90-subsets-ii) |
 | [131-palindrome-partitioning](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0257-binary-tree-paths) |
 | [494-target-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/494-target-sum) |
 ## Queue
 |  |
