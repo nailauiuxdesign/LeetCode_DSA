@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0389-find-the-difference) |
 | [392-is-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/392-is-subsequence) |
 | [0394-decode-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0394-decode-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0415-add-strings) |
 | [424-longest-repeating-character-replacement](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/424-longest-repeating-character-replacement) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0231-power-of-two) |
 | [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0415-add-strings) |
 | [504-base-7](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/504-base-7) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0461-hamming-distance) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
