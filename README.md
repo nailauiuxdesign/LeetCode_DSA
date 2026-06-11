@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0205-isomorphic-strings) |
 | [208-implement-trie-prefix-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0214-shortest-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0224-basic-calculator) |
 | [242-valid-anagram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0257-binary-tree-paths) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [28-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/28-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0214-shortest-palindrome) |
 | [572-subtree-of-another-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/572-subtree-of-another-tree) |
 ## Sliding Window
 |  |
@@ -964,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0214-shortest-palindrome) |
 | [572-subtree-of-another-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/572-subtree-of-another-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Number Theory
@@ -1073,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0214-shortest-palindrome) |
 | [718-maximum-length-of-repeated-subarray](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/718-maximum-length-of-repeated-subarray) |
 ## Randomized
 |  |
