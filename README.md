@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [424-longest-repeating-character-replacement](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0500-keyboard-row) |
 | [560-subarray-sum-equals-k](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/560-subarray-sum-equals-k) |
 | [567-permutation-in-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0621-task-scheduler) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [424-longest-repeating-character-replacement](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/424-longest-repeating-character-replacement) |
 | [443-string-compression](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0500-keyboard-row) |
 | [504-base-7](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/504-base-7) |
 | [516-longest-palindromic-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/516-longest-palindromic-subsequence) |
 | [567-permutation-in-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/567-permutation-in-string) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [455-assign-cookies](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/455-assign-cookies) |
 | [494-target-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/494-target-sum) |
 | [496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0500-keyboard-row) |
 | [503-next-greater-element-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/503-next-greater-element-ii) |
 | [0528-random-pick-with-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0528-random-pick-with-weight) |
 | [540-single-element-in-a-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/540-single-element-in-a-sorted-array) |
