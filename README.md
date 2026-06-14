@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0211-design-add-and-search-words-data-structure](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0214-shortest-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0227-basic-calculator-ii) |
 | [242-valid-anagram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0257-binary-tree-paths) |
 | [297-serialize-and-deserialize-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/297-serialize-and-deserialize-binary-tree) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0171-excel-sheet-column-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0231-power-of-two) |
 | [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [173-binary-search-tree-iterator](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0224-basic-calculator) |
 | [225-implement-stack-using-queues](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0227-basic-calculator-ii) |
 | [232-implement-queue-using-stacks](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/232-implement-queue-using-stacks) |
 | [234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0394-decode-string) |
