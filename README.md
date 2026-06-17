@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0500-keyboard-row](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0500-keyboard-row) |
 | [504-base-7](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/504-base-7) |
 | [516-longest-palindromic-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/516-longest-palindromic-subsequence) |
+| [0551-student-attendance-record-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0551-student-attendance-record-i) |
 | [567-permutation-in-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0649-dota2-senate) |
