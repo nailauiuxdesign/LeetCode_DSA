@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [516-longest-palindromic-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0541-reverse-string-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0551-student-attendance-record-i) |
 | [567-permutation-in-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0647-palindromic-substrings) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [443-string-compression](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/443-string-compression) |
 | [455-assign-cookies](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/455-assign-cookies) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0541-reverse-string-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0541-reverse-string-ii) |
 | [567-permutation-in-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0680-valid-palindrome-ii) |
