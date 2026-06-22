@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [560-subarray-sum-equals-k](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/560-subarray-sum-equals-k) |
 | [567-permutation-in-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0621-task-scheduler) |
 | [632-smallest-range-covering-elements-from-k-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/632-smallest-range-covering-elements-from-k-lists) |
 | [0676-implement-magic-dictionary](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0676-implement-magic-dictionary) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0541-reverse-string-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0551-student-attendance-record-i) |
 | [567-permutation-in-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0649-dota2-senate) |
 | [0676-implement-magic-dictionary](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0676-implement-magic-dictionary) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0528-random-pick-with-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0528-random-pick-with-weight) |
 | [540-single-element-in-a-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/540-single-element-in-a-sorted-array) |
 | [560-subarray-sum-equals-k](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [605-can-place-flowers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0621-task-scheduler) |
 | [632-smallest-range-covering-elements-from-k-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/632-smallest-range-covering-elements-from-k-lists) |
