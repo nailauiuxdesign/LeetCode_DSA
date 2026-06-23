@@ -1,4 +1,6 @@
-<h2><a href="https://leetcode.com/problems/check-adjacent-digit-differences">4305. Check Adjacent Digit Differences</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> consisting of digits.</p>
+<h2><a href="https://leetcode.com/problems/check-adjacent-digit-differences">4305. Check Adjacent Digit Differences</a></h2>
+<img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr>
+<p>You are given a string <code>s</code> consisting of digits.</p>
 
 <p>Return <code>true</code> if the <strong>absolute difference</strong> between every pair of <strong>adjacent</strong> digits is at most 2, otherwise return <code>false</code>.</p>
 
