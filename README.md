@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2390-removing-stars-from-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3280-convert-date-to-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3884-first-matching-character-from-both-ends](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
+| [3931-check-adjacent-digit-differences](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3931-check-adjacent-digit-differences) |
 ## Sorting
 |  |
 | ------- |
