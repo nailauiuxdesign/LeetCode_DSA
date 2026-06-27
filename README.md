@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [424-longest-repeating-character-replacement](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/424-longest-repeating-character-replacement) |
 | [443-string-compression](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0482-license-key-formatting](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0500-keyboard-row) |
 | [504-base-7](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/504-base-7) |
 | [516-longest-palindromic-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/516-longest-palindromic-subsequence) |
