@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [20-valid-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/20-valid-parentheses) |
 | [22-generate-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/22-generate-parentheses) |
 | [28-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/28-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0043-multiply-strings) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0058-length-of-last-word) |
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0043-multiply-strings) |
 | [54-spiral-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/54-spiral-matrix) |
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
 | [0412-fizz-buzz](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0412-fizz-buzz) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2-add-two-numbers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0043-multiply-strings) |
 | [48-rotate-image](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/48-rotate-image) |
 | [50-powx-n](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/50-powx-n) |
 | [62-unique-paths](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/62-unique-paths) |
