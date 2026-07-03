@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0133-clone-graph) |
 | [138-copy-list-with-random-pointer](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/138-copy-list-with-random-pointer) |
 | [139-word-break](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/139-word-break) |
+| [0140-word-break-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0140-word-break-ii) |
 | [142-linked-list-cycle-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/142-linked-list-cycle-ii) |
 | [169-majority-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/169-majority-element) |
 | [0202-happy-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0202-happy-number) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [125-valid-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/125-valid-palindrome) |
 | [131-palindrome-partitioning](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/131-palindrome-partitioning) |
 | [139-word-break](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/139-word-break) |
+| [0140-word-break-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0140-word-break-ii) |
 | [151-reverse-words-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [134-gas-station](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/134-gas-station) |
 | [136-single-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/136-single-number) |
 | [139-word-break](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/139-word-break) |
+| [0140-word-break-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0140-word-break-ii) |
 | [150-evaluate-reverse-polish-notation](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0152-maximum-product-subarray) |
 | [153-find-minimum-in-rotated-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/153-find-minimum-in-rotated-sorted-array) |
@@ -580,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [124-binary-tree-maximum-path-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/124-binary-tree-maximum-path-sum) |
 | [131-palindrome-partitioning](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/131-palindrome-partitioning) |
 | [139-word-break](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/139-word-break) |
+| [0140-word-break-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0152-maximum-product-subarray) |
 | [198-house-robber](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0213-house-robber-ii) |
@@ -845,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [70-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/70-climbing-stairs) |
 | [139-word-break](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/139-word-break) |
+| [0140-word-break-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0140-word-break-ii) |
 | [1013-fibonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Divide and Conquer
@@ -916,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [14-longest-common-prefix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/14-longest-common-prefix) |
 | [139-word-break](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/139-word-break) |
+| [0140-word-break-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0140-word-break-ii) |
 | [208-implement-trie-prefix-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0676-implement-magic-dictionary](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0676-implement-magic-dictionary) |
@@ -1048,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [79-word-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/79-word-search) |
 | [90-subsets-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/90-subsets-ii) |
 | [131-palindrome-partitioning](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0306-additive-number) |
