@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0097-interleaving-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0097-interleaving-string) |
 | [125-valid-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/125-valid-palindrome) |
 | [131-palindrome-partitioning](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [139-word-break](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/139-word-break) |
 | [0140-word-break-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0140-word-break-ii) |
 | [151-reverse-words-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/151-reverse-words-in-a-string) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [122-best-time-to-buy-and-sell-stock-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/122-best-time-to-buy-and-sell-stock-ii) |
 | [124-binary-tree-maximum-path-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/124-binary-tree-maximum-path-sum) |
 | [131-palindrome-partitioning](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [139-word-break](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/139-word-break) |
 | [0140-word-break-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0152-maximum-product-subarray) |
