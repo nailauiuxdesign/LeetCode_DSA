@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0649-dota2-senate](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0649-dota2-senate) |
 | [0676-implement-magic-dictionary](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0676-implement-magic-dictionary) |
 | [0680-valid-palindrome-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0696-count-binary-substrings) |
 | [0767-reorganize-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
 | [0929-unique-email-addresses](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0929-unique-email-addresses) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [567-permutation-in-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0881-boats-to-save-people) |
 | [0986-interval-list-intersections](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0986-interval-list-intersections) |
