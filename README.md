@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0676-implement-magic-dictionary](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0676-implement-magic-dictionary) |
 | [0680-valid-palindrome-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0696-count-binary-substrings) |
+| [0709-to-lower-case](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
 | [0929-unique-email-addresses](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0929-unique-email-addresses) |
