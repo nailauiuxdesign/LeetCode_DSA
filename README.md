@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3280-convert-date-to-binary) |
+| [3794-reverse-string-prefix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3798-largest-even-number) |
 | [3884-first-matching-character-from-both-ends](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3931-check-adjacent-digit-differences](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3931-check-adjacent-digit-differences) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
+| [3794-reverse-string-prefix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## String Matching
 |  |
