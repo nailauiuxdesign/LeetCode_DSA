@@ -1,4 +1,6 @@
-<h2><a href="https://leetcode.com/problems/largest-even-number">Largest Even Number</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a string <code>s</code> consisting only of the characters <code>&#39;1&#39;</code> and <code>&#39;2&#39;</code>.</p>
+<h2><a href="https://leetcode.com/problems/largest-even-number">Largest Even Number</a>
+</h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr>
+<p>You are given a string <code>s</code> consisting only of the characters <code>&#39;1&#39;</code> and <code>&#39;2&#39;</code>.</p>
 
 <p>You may delete any number of characters from <code>s</code> without changing the order of the remaining characters.</p>
 
