@@ -2,7 +2,6 @@ class Solution:
     def judgeCircle(self, moves):
         x = 0
         y = 0
-
         for move in moves:
             if move == "R":
                 x += 1
