@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0621-task-scheduler) |
 | [632-smallest-range-covering-elements-from-k-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/632-smallest-range-covering-elements-from-k-lists) |
 | [0676-implement-magic-dictionary](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0676-implement-magic-dictionary) |
+| [0748-shortest-completing-word](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0748-shortest-completing-word) |
 | [0767-reorganize-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0767-reorganize-string) |
 | [904-fruit-into-baskets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0929-unique-email-addresses) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0680-valid-palindrome-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0709-to-lower-case) |
+| [0748-shortest-completing-word](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0748-shortest-completing-word) |
 | [0767-reorganize-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
 | [0929-unique-email-addresses](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0929-unique-email-addresses) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0735-asteroid-collision) |
 | [739-daily-temperatures](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/739-daily-temperatures) |
 | [746-min-cost-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/746-min-cost-climbing-stairs) |
+| [0748-shortest-completing-word](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0748-shortest-completing-word) |
 | [852-peak-index-in-a-mountain-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/852-peak-index-in-a-mountain-array) |
 | [875-koko-eating-bananas](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0881-boats-to-save-people) |
