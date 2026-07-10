@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0389-find-the-difference) |
 | [392-is-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/392-is-subsequence) |
 | [0394-decode-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0412-fizz-buzz) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [134-gas-station](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0402-remove-k-digits) |
 | [496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/496-next-greater-element-i) |
 | [503-next-greater-element-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/503-next-greater-element-ii) |
 | [682-baseball-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/682-baseball-game) |
@@ -1036,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [42-trapping-rain-water](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/42-trapping-rain-water) |
 | [84-largest-rectangle-in-histogram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/84-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0402-remove-k-digits) |
 | [496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/496-next-greater-element-i) |
 | [503-next-greater-element-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/503-next-greater-element-ii) |
 | [739-daily-temperatures](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/739-daily-temperatures) |
