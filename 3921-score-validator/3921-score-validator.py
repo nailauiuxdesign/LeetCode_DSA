@@ -6,13 +6,10 @@ class Solution:
         for event in events:
             if event == "W":
                 wickets += 1
-
             elif event == "WD" or event == "NB":
                 score += 1
-
             else:
                 score += int(event)
-
             if wickets == 10:
                 break
 
