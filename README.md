@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3794-reverse-string-prefix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3798-largest-even-number) |
 | [3884-first-matching-character-from-both-ends](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
+| [3921-score-validator](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3931-check-adjacent-digit-differences) |
 ## Sorting
 |  |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2542-maximum-subsequence-score](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2965-find-missing-and-repeated-values](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3921-score-validator](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3921-score-validator) |
 ## Simulation
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2390-removing-stars-from-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3921-score-validator](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3921-score-validator) |
 ## Math
 |  |
 | ------- |
