@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0709-to-lower-case](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0748-shortest-completing-word) |
 | [0767-reorganize-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0767-reorganize-string) |
+| [0796-rotate-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
 | [0929-unique-email-addresses](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0929-unique-email-addresses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0214-shortest-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [572-subtree-of-another-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0796-rotate-string) |
 ## Sliding Window
 |  |
 | ------- |
