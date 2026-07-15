@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0806-number-of-lines-to-write-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
 | [0929-unique-email-addresses](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0929-unique-email-addresses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [746-min-cost-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/746-min-cost-climbing-stairs) |
 | [0748-shortest-completing-word](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0748-shortest-completing-word) |
 | [0806-number-of-lines-to-write-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0806-number-of-lines-to-write-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [852-peak-index-in-a-mountain-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/852-peak-index-in-a-mountain-array) |
 | [875-koko-eating-bananas](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0881-boats-to-save-people) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0647-palindromic-substrings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0881-boats-to-save-people) |
 | [0986-interval-list-intersections](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0986-interval-list-intersections) |
