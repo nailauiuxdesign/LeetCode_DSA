@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0676-implement-magic-dictionary](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0676-implement-magic-dictionary) |
 | [0748-shortest-completing-word](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0748-shortest-completing-word) |
 | [0767-reorganize-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0767-reorganize-string) |
+| [0819-most-common-word](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0819-most-common-word) |
 | [904-fruit-into-baskets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0929-unique-email-addresses) |
 | [1207-unique-number-of-occurrences](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0806-number-of-lines-to-write-string) |
+| [0819-most-common-word](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
 | [0929-unique-email-addresses](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0929-unique-email-addresses) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [746-min-cost-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/746-min-cost-climbing-stairs) |
 | [0748-shortest-completing-word](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0748-shortest-completing-word) |
 | [0806-number-of-lines-to-write-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0806-number-of-lines-to-write-string) |
+| [0819-most-common-word](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [852-peak-index-in-a-mountain-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/852-peak-index-in-a-mountain-array) |
 | [875-koko-eating-bananas](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/875-koko-eating-bananas) |
@@ -930,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [387-first-unique-character-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0767-reorganize-string) |
+| [0819-most-common-word](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0819-most-common-word) |
 | [1297-maximum-number-of-balloons](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
