@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2287-rearrange-characters-to-make-target-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2336-smallest-number-in-infinite-set](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [2451-odd-string-difference](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2451-odd-string-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2390-removing-stars-from-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2451-odd-string-difference](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2451-odd-string-difference) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3280-convert-date-to-binary) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2350-find-closest-number-to-zero](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2352-equal-row-and-column-pairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [2451-odd-string-difference](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2451-odd-string-difference) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2965-find-missing-and-repeated-values](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
