@@ -19,5 +19,5 @@ class Solution:
                 ways *= 4
             else:
                 ways *= 10
-
+#
         return ways
