@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2390-removing-stars-from-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2437-number-of-valid-clock-times](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2437-number-of-valid-clock-times) |
 | [2451-odd-string-difference](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2451-odd-string-difference) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3110-score-of-a-string) |
@@ -1174,4 +1175,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Enumeration
+|  |
+| ------- |
+| [2437-number-of-valid-clock-times](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2437-number-of-valid-clock-times) |
 <!---LeetCode Topics End-->
