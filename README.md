@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0806-number-of-lines-to-write-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [0830-positions-of-large-groups](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0830-positions-of-large-groups) |
 | [0844-backspace-string-compare](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
 | [0929-unique-email-addresses](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0929-unique-email-addresses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
