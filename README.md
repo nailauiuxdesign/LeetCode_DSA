@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0748-shortest-completing-word](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0748-shortest-completing-word) |
 | [0767-reorganize-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0767-reorganize-string) |
 | [0819-most-common-word](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0819-most-common-word) |
+| [0859-buddy-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0859-buddy-strings) |
 | [904-fruit-into-baskets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0929-unique-email-addresses) |
 | [1207-unique-number-of-occurrences](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0821-shortest-distance-to-a-character](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0830-positions-of-large-groups](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0830-positions-of-large-groups) |
 | [0844-backspace-string-compare](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
+| [0859-buddy-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0859-buddy-strings) |
 | [0929-unique-email-addresses](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0929-unique-email-addresses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1108-defanging-an-ip-address) |
