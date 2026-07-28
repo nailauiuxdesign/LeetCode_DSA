@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3280-convert-date-to-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3794-reverse-string-prefix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3798-largest-even-number) |
+| [3856-trim-trailing-vowels](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3921-score-validator](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3931-check-adjacent-digit-differences) |
