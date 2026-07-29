@@ -1,4 +1,6 @@
-<h2><a href="https://leetcode.com/problems/traffic-signal-color/description/?envType=problem-list-v2&envId=string">4275. Traffic Signal Color</a></h2><h3>Easy</h3><hr><p>You are given an integer <code>timer</code> representing the remaining time (in seconds) on a traffic signal.</p>
+<h2><a href="https://leetcode.com/problems/traffic-signal-color/description/?envType=problem-list-v2&envId=string">4275. Traffic Signal Color</a></h2>
+<img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr>
+<p>You are given an integer <code>timer</code> representing the remaining time (in seconds) on a traffic signal.</p>
 
 <p>The signal follows these rules:</p>
 
