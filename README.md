@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3798-largest-even-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3798-largest-even-number) |
 | [3856-trim-trailing-vowels](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
+| [3894-traffic-signal-color](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3931-check-adjacent-digit-differences) |
 ## Sorting
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2390-removing-stars-from-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3894-traffic-signal-color](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3921-score-validator) |
 ## Math
 |  |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2965-find-missing-and-repeated-values](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3280-convert-date-to-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3894-traffic-signal-color](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
 |  |
 | ------- |
