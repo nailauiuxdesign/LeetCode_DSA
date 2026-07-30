@@ -1,4 +1,6 @@
-<h2><a href="https://leetcode.com/problems/find-special-substring-of-length-k/description/?envType=problem-list-v2&envId=string">3709. Find Special Substring of Length K</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> and an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-special-substring-of-length-k/description/?envType=problem-list-v2&envId=string">3709. Find Special Substring of Length K</a></h2>
+<img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr>
+<p>You are given a string <code>s</code> and an integer <code>k</code>.</p>
 
 <p>Determine if there exists a <span data-keyword="substring-nonempty">substring</span> of length <strong>exactly</strong> <code>k</code> in <code>s</code> that satisfies the following conditions:</p>
 
