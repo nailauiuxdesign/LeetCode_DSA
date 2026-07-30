@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3280-convert-date-to-binary) |
+| [3456-find-special-substring-of-length-k](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3456-find-special-substring-of-length-k) |
 | [3794-reverse-string-prefix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3798-largest-even-number) |
 | [3856-trim-trailing-vowels](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3856-trim-trailing-vowels) |
