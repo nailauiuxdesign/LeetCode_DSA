@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3280-convert-date-to-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3456-find-special-substring-of-length-k](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3456-find-special-substring-of-length-k) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3798-largest-even-number) |
 | [3856-trim-trailing-vowels](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3856-trim-trailing-vowels) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2352-equal-row-and-column-pairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3894-traffic-signal-color](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3921-score-validator) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2965-find-missing-and-repeated-values](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3280-convert-date-to-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3894-traffic-signal-color](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
 |  |
@@ -1064,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1447-simplified-fractions](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1447-simplified-fractions) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1167,6 +1171,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [62-unique-paths](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/62-unique-paths) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Rolling Hash
 |  |
 | ------- |
