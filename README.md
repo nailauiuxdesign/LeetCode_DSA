@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [443-string-compression](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0500-keyboard-row) |
 | [504-base-7](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/504-base-7) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [455-assign-cookies](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/455-assign-cookies) |
 | [0472-concatenated-words](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0474-ones-and-zeroes) |
 | [494-target-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/494-target-sum) |
 | [496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0500-keyboard-row) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [416-partition-equal-subset-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0474-ones-and-zeroes) |
 | [494-target-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/494-target-sum) |
 | [516-longest-palindromic-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/516-longest-palindromic-subsequence) |
 | [646-maximum-length-of-pair-chain](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/646-maximum-length-of-pair-chain) |
@@ -1206,4 +1209,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2437-number-of-valid-clock-times](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2437-number-of-valid-clock-times) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0474-ones-and-zeroes) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
