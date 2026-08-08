@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1668-maximum-repeating-substring](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [1768-merge-strings-alternately](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0459-repeated-substring-pattern](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [572-subtree-of-another-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0796-rotate-string) |
+| [1668-maximum-repeating-substring](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1668-maximum-repeating-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1668-maximum-repeating-substring](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1668-maximum-repeating-substring) |
 ## Stack
 |  |
 | ------- |
