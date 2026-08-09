@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [108-convert-sorted-array-to-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 | [121-best-time-to-buy-and-sell-stock](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/121-best-time-to-buy-and-sell-stock) |
 | [122-best-time-to-buy-and-sell-stock-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/122-best-time-to-buy-and-sell-stock-ii) |
 | [128-longest-consecutive-sequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/128-longest-consecutive-sequence) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0091-decode-ways](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 | [121-best-time-to-buy-and-sell-stock](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/121-best-time-to-buy-and-sell-stock) |
 | [122-best-time-to-buy-and-sell-stock-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/122-best-time-to-buy-and-sell-stock-ii) |
 | [124-binary-tree-maximum-path-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/124-binary-tree-maximum-path-sum) |
