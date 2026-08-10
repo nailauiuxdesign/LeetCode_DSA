@@ -4,5 +4,4 @@ class Solution:
             for j in range(i + 1):
                 best_next = min(triangle[i + 1][j], triangle[i + 1][j + 1])
                 triangle[i][j] += best_next
-
         return triangle[0][0]
