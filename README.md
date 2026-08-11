@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [108-convert-sorted-array-to-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0120-triangle) |
 | [121-best-time-to-buy-and-sell-stock](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/121-best-time-to-buy-and-sell-stock) |
 | [122-best-time-to-buy-and-sell-stock-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/122-best-time-to-buy-and-sell-stock-ii) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0096-unique-binary-search-trees](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0120-triangle) |
 | [121-best-time-to-buy-and-sell-stock](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/121-best-time-to-buy-and-sell-stock) |
 | [122-best-time-to-buy-and-sell-stock-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/122-best-time-to-buy-and-sell-stock-ii) |
