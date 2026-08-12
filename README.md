@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [443-string-compression](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0466-count-the-repetitions](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [392-is-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/392-is-subsequence) |
 | [443-string-compression](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/443-string-compression) |
 | [455-assign-cookies](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/455-assign-cookies) |
+| [0466-count-the-repetitions](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0466-count-the-repetitions) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0541-reverse-string-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [392-is-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/392-is-subsequence) |
 | [416-partition-equal-subset-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0435-non-overlapping-intervals) |
+| [0466-count-the-repetitions](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0474-ones-and-zeroes) |
