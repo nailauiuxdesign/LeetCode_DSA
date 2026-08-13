@@ -1239,4 +1239,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
