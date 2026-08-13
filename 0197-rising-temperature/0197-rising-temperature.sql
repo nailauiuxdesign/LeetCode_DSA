@@ -1,3 +1,4 @@
+#SQL
 SELECT Today.id
 FROM Weather AS Today
 INNER JOIN Weather AS Yesterday
