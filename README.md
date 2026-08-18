@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0162-find-peak-element) |
 | [167-two-sum-ii-input-array-is-sorted](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/167-two-sum-ii-input-array-is-sorted) |
 | [169-majority-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/169-majority-element) |
+| [0189-rotate-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [198-house-robber](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/198-house-robber) |
 | [200-number-of-islands](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/200-number-of-islands) |
 | [209-minimum-size-subarray-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/209-minimum-size-subarray-sum) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [150-evaluate-reverse-polish-notation](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
 | [151-reverse-words-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/151-reverse-words-in-a-string) |
 | [167-two-sum-ii-input-array-is-sorted](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0202-happy-number) |
 | [234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/234-palindrome-linked-list) |
 | [283-move-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/283-move-zeroes) |
