@@ -560,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [61-rotate-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/61-rotate-list) |
 | [75-sort-colors](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/75-sort-colors) |
 | [80-remove-duplicates-from-sorted-array-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/80-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [86-partition-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/86-partition-list) |
 | [88-merge-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/88-merge-sorted-array) |
 | [125-valid-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/125-valid-palindrome) |
@@ -1054,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [23-merge-k-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/23-merge-k-sorted-lists) |
 | [25-reverse-nodes-in-k-group](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/25-reverse-nodes-in-k-group) |
 | [61-rotate-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/61-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [86-partition-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/86-partition-list) |
 | [92-reverse-linked-list-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/92-reverse-linked-list-ii) |
 | [114-flatten-binary-tree-to-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/114-flatten-binary-tree-to-linked-list) |
