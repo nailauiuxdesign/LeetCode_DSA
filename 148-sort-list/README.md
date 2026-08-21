@@ -1,4 +1,6 @@
-<h2><a href="https://leetcode.com/problems/sort-list">148. Sort List</a></h2><h3>Medium</h3><hr><p>Given the <code>head</code> of a linked list, return <em>the list after sorting it in <strong>ascending order</strong></em>.</p>
+<h2><a href="https://leetcode.com/problems/sort-list">148. Sort List</a></h2>
+<img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr>
+<p>Given the <code>head</code> of a linked list, return <em>the list after sorting it in <strong>ascending order</strong></em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
