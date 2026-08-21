@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [56-merge-intervals](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/56-merge-intervals) |
 | [75-sort-colors](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/75-sort-colors) |
 | [88-merge-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/88-merge-sorted-array) |
+| [0148-sort-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0148-sort-list) |
 | [169-majority-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/169-majority-element) |
 | [215-kth-largest-element-in-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/215-kth-largest-element-in-an-array) |
 | [217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/217-contains-duplicate) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [125-valid-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/125-valid-palindrome) |
 | [142-linked-list-cycle-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/142-linked-list-cycle-ii) |
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
+| [0148-sort-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0148-sort-list) |
 | [151-reverse-words-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/151-reverse-words-in-a-string) |
 | [167-two-sum-ii-input-array-is-sorted](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0189-rotate-array) |
@@ -942,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [108-convert-sorted-array-to-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0148-sort-list) |
 | [169-majority-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/169-majority-element) |
 | [0190-reverse-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0190-reverse-bits) |
 | [191-number-of-1-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/191-number-of-1-bits) |
@@ -1063,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [138-copy-list-with-random-pointer](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/138-copy-list-with-random-pointer) |
 | [142-linked-list-cycle-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/142-linked-list-cycle-ii) |
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
+| [0148-sort-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [206-reverse-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/206-reverse-linked-list) |
 | [234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/234-palindrome-linked-list) |
@@ -1125,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [23-merge-k-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/23-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0148-sort-list) |
 | [912-sort-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/912-sort-an-array) |
 ## Backtracking
 |  |
