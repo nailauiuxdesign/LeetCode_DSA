@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0171-excel-sheet-column-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0231-power-of-two) |
@@ -1135,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0223-rectangle-area) |
 | [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
