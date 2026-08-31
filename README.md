@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2-add-two-numbers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0043-multiply-strings) |
 | [48-rotate-image](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/48-rotate-image) |
 | [50-powx-n](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/50-powx-n) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0029-divide-two-integers) |
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
 | [78-subsets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/78-subsets) |
 | [90-subsets-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/90-subsets-ii) |
