@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [15-3sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/15-3sum) |
 | [18-4sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/18-4sum) |
+| [0047-permutations-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0047-permutations-ii) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
 | [56-merge-intervals](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/56-merge-intervals) |
 | [75-sort-colors](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/75-sort-colors) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [42-trapping-rain-water](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/42-trapping-rain-water) |
 | [45-jump-game-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/45-jump-game-ii) |
 | [46-permutations](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/46-permutations) |
+| [0047-permutations-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0047-permutations-ii) |
 | [48-rotate-image](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/48-rotate-image) |
 | [49-group-anagrams](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/49-group-anagrams) |
 | [51-n-queens](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/51-n-queens) |
@@ -1159,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [39-combination-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/39-combination-sum) |
 | [40-combination-sum-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/40-combination-sum-ii) |
 | [46-permutations](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/46-permutations) |
+| [0047-permutations-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0047-permutations-ii) |
 | [51-n-queens](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/51-n-queens) |
 | [77-combinations](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/77-combinations) |
 | [78-subsets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/78-subsets) |
