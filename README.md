@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [151-reverse-words-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0205-isomorphic-strings) |
 | [208-implement-trie-prefix-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0147-insertion-sort-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0148-sort-list) |
 | [169-majority-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/169-majority-element) |
+| [0179-largest-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0179-largest-number) |
 | [215-kth-largest-element-in-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/215-kth-largest-element-in-an-array) |
 | [217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/217-contains-duplicate) |
 | [242-valid-anagram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/242-valid-anagram) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0162-find-peak-element) |
 | [167-two-sum-ii-input-array-is-sorted](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/167-two-sum-ii-input-array-is-sorted) |
 | [169-majority-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/169-majority-element) |
+| [0179-largest-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [198-house-robber](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/198-house-robber) |
 | [200-number-of-islands](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/200-number-of-islands) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [55-jump-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/55-jump-game) |
 | [122-best-time-to-buy-and-sell-stock-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/122-best-time-to-buy-and-sell-stock-ii) |
 | [134-gas-station](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/134-gas-station) |
+| [0179-largest-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0402-remove-k-digits) |
