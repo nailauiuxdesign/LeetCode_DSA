@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [142-linked-list-cycle-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [169-majority-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0205-isomorphic-strings) |
 | [208-implement-trie-prefix-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/208-implement-trie-prefix-tree) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0168-excel-sheet-column-title](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0205-isomorphic-strings) |
 | [208-implement-trie-prefix-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [90-subsets-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/90-subsets-ii) |
 | [136-single-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/136-single-number) |
 | [0137-single-number-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0190-reverse-bits) |
 | [191-number-of-1-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -637,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3-longest-substring-without-repeating-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3-longest-substring-without-repeating-characters) |
 | [76-minimum-window-substring](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/76-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [209-minimum-size-subarray-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0219-contains-duplicate-ii) |
 | [239-sliding-window-maximum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/239-sliding-window-maximum) |
@@ -1130,6 +1134,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0214-shortest-palindrome) |
 | [572-subtree-of-another-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/572-subtree-of-another-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -1250,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0214-shortest-palindrome) |
 | [718-maximum-length-of-repeated-subarray](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/718-maximum-length-of-repeated-subarray) |
 ## Randomized
@@ -1293,4 +1299,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0180-consecutive-numbers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0197-rising-temperature) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
