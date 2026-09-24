@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0275-h-index-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0275-h-index-ii) |
 | [283-move-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/283-move-zeroes) |
 | [287-find-the-duplicate-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [322-coin-change](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0334-increasing-triplet-subsequence) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [54-spiral-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/54-spiral-matrix) |
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
 | [0258-add-digits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0657-robot-return-to-origin) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [74-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/74-search-a-2d-matrix) |
 | [79-word-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/79-word-search) |
 | [200-number-of-islands](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/200-number-of-islands) |
+| [0289-game-of-life](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0289-game-of-life) |
 | [378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [695-max-area-of-island](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/695-max-area-of-island) |
