@@ -961,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2-add-two-numbers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2-add-two-numbers) |
 | [21-merge-two-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/21-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [25-reverse-nodes-in-k-group](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/25-reverse-nodes-in-k-group) |
 | [50-powx-n](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/50-powx-n) |
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
@@ -1100,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2-add-two-numbers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2-add-two-numbers) |
 | [21-merge-two-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/21-merge-two-sorted-lists) |
 | [23-merge-k-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/23-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [25-reverse-nodes-in-k-group](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/25-reverse-nodes-in-k-group) |
 | [61-rotate-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/61-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
