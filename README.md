@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [55-jump-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/55-jump-game) |
 | [56-merge-intervals](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/56-merge-intervals) |
 | [57-insert-interval](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/57-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0064-minimum-path-sum) |
 | [66-plus-one](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/66-plus-one) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0043-multiply-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0043-multiply-strings) |
 | [54-spiral-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/54-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
 | [0258-add-digits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0289-game-of-life) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [37-sudoku-solver](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/37-sudoku-solver) |
 | [48-rotate-image](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/48-rotate-image) |
 | [54-spiral-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/54-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0064-minimum-path-sum) |
 | [73-set-matrix-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/73-set-matrix-zeroes) |
