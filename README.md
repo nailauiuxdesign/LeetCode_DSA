@@ -786,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [114-flatten-binary-tree-to-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/114-flatten-binary-tree-to-linked-list) |
 | [116-populating-next-right-pointers-in-each-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [124-binary-tree-maximum-path-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [144-binary-tree-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/144-binary-tree-preorder-traversal) |
@@ -834,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [114-flatten-binary-tree-to-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/114-flatten-binary-tree-to-linked-list) |
 | [116-populating-next-right-pointers-in-each-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [124-binary-tree-maximum-path-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0133-clone-graph) |
@@ -896,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [114-flatten-binary-tree-to-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/114-flatten-binary-tree-to-linked-list) |
 | [116-populating-next-right-pointers-in-each-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [124-binary-tree-maximum-path-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [144-binary-tree-preorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/144-binary-tree-preorder-traversal) |
@@ -938,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [116-populating-next-right-pointers-in-each-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0133-clone-graph](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0133-clone-graph) |
 | [199-binary-tree-right-side-view](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/199-binary-tree-right-side-view) |
 | [200-number-of-islands](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/200-number-of-islands) |
@@ -1118,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [114-flatten-binary-tree-to-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/114-flatten-binary-tree-to-linked-list) |
 | [116-populating-next-right-pointers-in-each-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [138-copy-list-with-random-pointer](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/138-copy-list-with-random-pointer) |
 | [142-linked-list-cycle-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/142-linked-list-cycle-ii) |
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
