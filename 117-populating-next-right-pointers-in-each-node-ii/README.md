@@ -1,4 +1,6 @@
-<h2><a href="https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii">117. Populating Next Right Pointers in Each Node II</a></h2><h3>Medium</h3><hr><p>Given a binary tree</p>
+<h2><a href="https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii">117. Populating Next Right Pointers in Each Node II</a></h2>
+<img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr>
+<p>Given a binary tree</p>
 
 <pre>
 struct Node {
