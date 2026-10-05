@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0216-combination-sum-iii) |
 | [217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0221-maximal-square) |
 | [228-summary-ranges](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/228-summary-ranges) |
 | [238-product-of-array-except-self](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/238-product-of-array-except-self) |
 | [239-sliding-window-maximum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/239-sliding-window-maximum) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [79-word-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/79-word-search) |
 | [0130-surrounded-regions](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0130-surrounded-regions) |
 | [200-number-of-islands](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/200-number-of-islands) |
+| [0221-maximal-square](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0289-game-of-life) |
 | [378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0152-maximum-product-subarray) |
 | [198-house-robber](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [322-coin-change](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/322-coin-change) |
