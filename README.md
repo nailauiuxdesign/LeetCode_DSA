@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0179-largest-number) |
 | [215-kth-largest-element-in-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/215-kth-largest-element-in-an-array) |
 | [217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [242-valid-anagram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/242-valid-anagram) |
 | [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
 | [295-find-median-from-data-stream](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/295-find-median-from-data-stream) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0216-combination-sum-iii) |
 | [217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0221-maximal-square) |
 | [228-summary-ranges](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/228-summary-ranges) |
 | [238-product-of-array-except-self](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/238-product-of-array-except-self) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0187-repeated-dna-sequences](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [209-minimum-size-subarray-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [239-sliding-window-maximum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/239-sliding-window-maximum) |
 | [424-longest-repeating-character-replacement](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -1044,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bucket Sort
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 | [912-sort-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/912-sort-an-array) |
 ## Counting
@@ -1302,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [2336-smallest-number-in-infinite-set](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Sweep Line
 |  |
