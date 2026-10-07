@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [76-minimum-window-substring](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/76-minimum-window-substring) |
 | [105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0127-word-ladder) |
 | [128-longest-consecutive-sequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0133-clone-graph) |
 | [138-copy-list-with-random-pointer](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/138-copy-list-with-random-pointer) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0091-decode-ways](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0097-interleaving-string) |
 | [125-valid-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0127-word-ladder) |
 | [131-palindrome-partitioning](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [139-word-break](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/139-word-break) |
@@ -953,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [116-populating-next-right-pointers-in-each-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0127-word-ladder](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0133-clone-graph) |
 | [199-binary-tree-right-side-view](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/199-binary-tree-right-side-view) |
@@ -1374,4 +1377,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0292-nim-game) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
