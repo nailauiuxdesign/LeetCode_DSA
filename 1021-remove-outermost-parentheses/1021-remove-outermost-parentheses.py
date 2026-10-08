@@ -2,6 +2,7 @@ class Solution:
     def removeOuterParentheses(self, s: str) -> str:
         result = []
         depth = 0
+        
         for char in s:
             if char == '(':
                 if depth > 0:
