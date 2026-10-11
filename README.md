@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [208-implement-trie-prefix-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/208-implement-trie-prefix-tree) |
 | [217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0229-majority-element-ii) |
 | [242-valid-anagram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/242-valid-anagram) |
 | [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [215-kth-largest-element-in-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/215-kth-largest-element-in-an-array) |
 | [217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0229-majority-element-ii) |
 | [242-valid-anagram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/242-valid-anagram) |
 | [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
 | [295-find-median-from-data-stream](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/295-find-median-from-data-stream) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0220-contains-duplicate-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0221-maximal-square) |
 | [228-summary-ranges](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0229-majority-element-ii) |
 | [238-product-of-array-except-self](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/238-product-of-array-except-self) |
 | [239-sliding-window-maximum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/239-sliding-window-maximum) |
 | [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
@@ -1066,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [169-majority-element](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/169-majority-element) |
+| [0229-majority-element-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0229-majority-element-ii) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 | [387-first-unique-character-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0621-task-scheduler) |
@@ -1392,4 +1396,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0127-word-ladder) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
