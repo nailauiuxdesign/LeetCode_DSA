@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [198-house-robber](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/198-house-robber) |
 | [200-number-of-islands](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/200-number-of-islands) |
+| [0204-count-primes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0204-count-primes) |
 | [209-minimum-size-subarray-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0213-house-robber-ii) |
 | [215-kth-largest-element-in-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/215-kth-largest-element-in-an-array) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0171-excel-sheet-column-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -1200,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0258-add-digits) |
 | [1447-simplified-fractions](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1447-simplified-fractions) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -1338,6 +1341,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0204-count-primes) |
 | [2437-number-of-valid-clock-times](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2437-number-of-valid-clock-times) |
 ## Knapsack Problem
 |  |
@@ -1403,4 +1407,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0229-majority-element-ii) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
