@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0229-majority-element-ii) |
 | [238-product-of-array-except-self](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/238-product-of-array-except-self) |
 | [239-sliding-window-maximum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
 | [0275-h-index-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0275-h-index-ii) |
 | [283-move-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/283-move-zeroes) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [167-two-sum-ii-input-array-is-sorted](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/167-two-sum-ii-input-array-is-sorted) |
 | [209-minimum-size-subarray-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
 | [0275-h-index-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0275-h-index-ii) |
 | [287-find-the-duplicate-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/287-find-the-duplicate-number) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0130-surrounded-regions) |
 | [200-number-of-islands](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/200-number-of-islands) |
 | [0221-maximal-square](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0289-game-of-life) |
 | [378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1038,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0190-reverse-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0190-reverse-bits) |
 | [191-number-of-1-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/191-number-of-1-bits) |
 | [215-kth-largest-element-in-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 | [912-sort-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/912-sort-an-array) |
 | [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
