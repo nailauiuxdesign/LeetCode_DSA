@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0179-largest-number) |
 | [215-kth-largest-element-in-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/215-kth-largest-element-in-an-array) |
 | [217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0229-majority-element-ii) |
 | [242-valid-anagram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/242-valid-anagram) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [215-kth-largest-element-in-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0216-combination-sum-iii) |
 | [217-contains-duplicate](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0221-maximal-square) |
@@ -1041,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0190-reverse-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0190-reverse-bits) |
 | [191-number-of-1-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/191-number-of-1-bits) |
 | [215-kth-largest-element-in-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
 | [912-sort-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/912-sort-an-array) |
@@ -1051,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [23-merge-k-sorted-lists](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/23-merge-k-sorted-lists) |
 | [215-kth-largest-element-in-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0218-the-skyline-problem) |
 | [239-sliding-window-maximum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/239-sliding-window-maximum) |
 | [295-find-median-from-data-stream](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/295-find-median-from-data-stream) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
@@ -1332,11 +1336,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [2336-smallest-number-in-infinite-set](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Sweep Line
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0218-the-skyline-problem) |
 | [986-interval-list-intersections](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/986-interval-list-intersections) |
 ## Minimum Spanning Tree
 |  |
@@ -1423,4 +1429,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0204-count-primes) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
