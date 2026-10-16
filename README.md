@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0072-edit-distance) |
 | [76-minimum-window-substring](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/76-minimum-window-substring) |
 | [79-word-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/79-word-search) |
+| [0087-scramble-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0097-interleaving-string) |
 | [125-valid-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/125-valid-palindrome) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0064-minimum-path-sum) |
 | [70-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/70-climbing-stairs) |
 | [0072-edit-distance](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0097-interleaving-string) |
