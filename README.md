@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [80-remove-duplicates-from-sorted-array-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/80-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [84-largest-rectangle-in-histogram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/84-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0085-maximal-rectangle) |
 | [88-merge-sorted-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/88-merge-sorted-array) |
 | [90-subsets-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/90-subsets-ii) |
 | [105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [73-set-matrix-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/73-set-matrix-zeroes) |
 | [74-search-a-2d-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/74-search-a-2d-matrix) |
 | [79-word-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/79-word-search) |
+| [0085-maximal-rectangle](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0130-surrounded-regions) |
 | [200-number-of-islands](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/200-number-of-islands) |
 | [0221-maximal-square](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0221-maximal-square) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0064-minimum-path-sum) |
 | [70-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/70-climbing-stairs) |
 | [0072-edit-distance](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0096-unique-binary-search-trees) |
@@ -767,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [42-trapping-rain-water](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/42-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0071-simplify-path) |
 | [84-largest-rectangle-in-histogram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/84-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0085-maximal-rectangle) |
 | [94-binary-tree-inorder-traversal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/94-binary-tree-inorder-traversal) |
 | [114-flatten-binary-tree-to-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/114-flatten-binary-tree-to-linked-list) |
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
@@ -1222,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [42-trapping-rain-water](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/42-trapping-rain-water) |
 | [84-largest-rectangle-in-histogram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/84-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0402-remove-k-digits) |
 | [496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/496-next-greater-element-i) |
