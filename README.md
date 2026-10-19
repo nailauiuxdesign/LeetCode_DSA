@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0043-multiply-strings) |
 | [48-rotate-image](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/48-rotate-image) |
 | [50-powx-n](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/50-powx-n) |
+| [0060-permutation-sequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0060-permutation-sequence) |
 | [62-unique-paths](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/62-unique-paths) |
 | [66-plus-one](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/66-plus-one) |
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
@@ -1015,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0024-swap-nodes-in-pairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [25-reverse-nodes-in-k-group](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/25-reverse-nodes-in-k-group) |
 | [50-powx-n](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/50-powx-n) |
+| [0060-permutation-sequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0060-permutation-sequence) |
 | [143-reorder-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [206-reverse-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/206-reverse-linked-list) |
