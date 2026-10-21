@@ -8,7 +8,6 @@ class Solution:
 
         smallest = min(s)
         largest = max(s)
-
         if s[0] == smallest or s[-1] == largest:
             return 1
 
