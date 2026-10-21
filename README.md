@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3794-reverse-string-prefix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3798-largest-even-number) |
 | [3856-trim-trailing-vowels](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3856-trim-trailing-vowels) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/3921-score-validator) |
