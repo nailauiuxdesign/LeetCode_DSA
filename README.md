@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
 | [69-sqrtx](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/69-sqrtx) |
 | [70-climbing-stairs](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/70-climbing-stairs) |
+| [0089-gray-code](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [150-evaluate-reverse-polish-notation](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0029-divide-two-integers) |
 | [67-add-binary](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/67-add-binary) |
 | [78-subsets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/78-subsets) |
+| [0089-gray-code](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0089-gray-code) |
 | [90-subsets-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/90-subsets-ii) |
 | [136-single-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/136-single-number) |
 | [0137-single-number-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0137-single-number-ii) |
@@ -1265,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [77-combinations](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/77-combinations) |
 | [78-subsets](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/78-subsets) |
 | [79-word-search](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/79-word-search) |
+| [0089-gray-code](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0089-gray-code) |
 | [90-subsets-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/90-subsets-ii) |
 | [131-palindrome-partitioning](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0140-word-break-ii) |
