@@ -4,4 +4,5 @@ class Solution:
         for i in range(n):
             for num in reversed(result.copy()):
                 result.append(num | (1 << i))
+                
         return result
