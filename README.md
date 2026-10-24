@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
 | [387-first-unique-character-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0389-find-the-difference) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0409-longest-palindrome) |
 | [424-longest-repeating-character-replacement](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0389-find-the-difference) |
 | [392-is-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/392-is-subsequence) |
 | [0394-decode-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0394-decode-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0409-longest-palindrome) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [239-sliding-window-maximum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [424-longest-repeating-character-replacement](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [567-permutation-in-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/567-permutation-in-string) |
@@ -1059,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0218-the-skyline-problem](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [347-top-k-frequent-elements](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [912-sort-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/912-sort-an-array) |
 | [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1014-k-closest-points-to-origin) |
