@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
 | [377-combination-sum-iv](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/377-combination-sum-iv) |
 | [378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/378-kth-smallest-element-in-a-sorted-matrix) |
+| [0396-rotate-function](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0396-rotate-function) |
 | [416-partition-equal-subset-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0435-non-overlapping-intervals) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0279-perfect-squares](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0396-rotate-function](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0415-add-strings) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0338-counting-bits) |
 | [377-combination-sum-iv](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/377-combination-sum-iv) |
 | [392-is-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/392-is-subsequence) |
+| [0396-rotate-function](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0396-rotate-function) |
 | [416-partition-equal-subset-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0466-count-the-repetitions](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0466-count-the-repetitions) |
