@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [349-intersection-of-two-arrays](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/349-intersection-of-two-arrays) |
 | [377-combination-sum-iv](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/377-combination-sum-iv) |
 | [378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/378-kth-smallest-element-in-a-sorted-matrix) |
+| [0384-shuffle-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0396-rotate-function) |
 | [416-partition-equal-subset-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0279-perfect-squares](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0384-shuffle-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0412-fizz-buzz) |
@@ -1145,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [232-implement-queue-using-stacks](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/232-implement-queue-using-stacks) |
 | [295-find-median-from-data-stream](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/295-find-median-from-data-stream) |
 | [297-serialize-and-deserialize-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/297-serialize-and-deserialize-binary-tree) |
+| [0384-shuffle-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0384-shuffle-an-array) |
 | [0676-implement-magic-dictionary](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0676-implement-magic-dictionary) |
 | [703-kth-largest-element-in-a-stream](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0901-online-stock-span) |
@@ -1356,6 +1359,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Randomized
 |  |
 | ------- |
+| [0384-shuffle-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0384-shuffle-an-array) |
 | [528-random-pick-with-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/528-random-pick-with-weight) |
 ## Ordered Set
 |  |
