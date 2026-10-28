@@ -1,4 +1,6 @@
-<h2><a href="https://leetcode.com/problems/shuffle-an-array">384. Shuffle an Array</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code>, design an algorithm to randomly shuffle the array. All permutations of the array should be <strong>equally likely</strong> as a result of the shuffling.</p>
+<h2><a href="https://leetcode.com/problems/shuffle-an-array">384. Shuffle an Array</a></h2>
+<img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr>
+<p>Given an integer array <code>nums</code>, design an algorithm to randomly shuffle the array. All permutations of the array should be <strong>equally likely</strong> as a result of the shuffling.</p>
 
 <p>Implement the <code>Solution</code> class:</p>
 
