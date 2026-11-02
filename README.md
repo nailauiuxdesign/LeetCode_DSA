@@ -534,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0461-hamming-distance) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -1296,6 +1297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0306-additive-number) |
+| [0401-binary-watch](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0401-binary-watch) |
 | [494-target-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/494-target-sum) |
 ## Queue
 |  |
