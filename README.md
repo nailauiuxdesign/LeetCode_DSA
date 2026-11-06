@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
 | [0279-perfect-squares](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0384-shuffle-an-array) |
@@ -1050,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0233-number-of-digit-one](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0233-number-of-digit-one) |
 | [234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
