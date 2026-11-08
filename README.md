@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0279-perfect-squares](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0384-shuffle-an-array) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
 | [287-find-the-duplicate-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0401-binary-watch) |
@@ -1052,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
