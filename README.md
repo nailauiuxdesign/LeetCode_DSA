@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0241-different-ways-to-add-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [242-valid-anagram](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0257-binary-tree-paths) |
+| [0273-integer-to-english-words](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0273-integer-to-english-words) |
 | [297-serialize-and-deserialize-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/297-serialize-and-deserialize-binary-tree) |
 | [0306-additive-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0316-remove-duplicate-letters) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0263-ugly-number) |
 | [268-missing-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/268-missing-number) |
+| [0273-integer-to-english-words](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0326-power-of-three) |
@@ -1058,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0233-number-of-digit-one](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0233-number-of-digit-one) |
 | [234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0273-integer-to-english-words](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0394-decode-string) |
