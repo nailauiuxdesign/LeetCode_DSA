@@ -508,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0492-construct-the-rectangle) |
 | [504-base-7](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/504-base-7) |
 | [0528-random-pick-with-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0528-random-pick-with-weight) |
 | [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
