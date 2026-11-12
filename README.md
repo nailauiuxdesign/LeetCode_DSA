@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0472-concatenated-words](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0474-ones-and-zeroes) |
 | [494-target-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/494-target-sum) |
+| [0495-teemo-attacking](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0495-teemo-attacking) |
 | [496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0500-keyboard-row) |
 | [503-next-greater-element-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/503-next-greater-element-ii) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0289-game-of-life](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0657-robot-return-to-origin) |
 | [682-baseball-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0735-asteroid-collision) |
