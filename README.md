@@ -502,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0292-nim-game](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0384-shuffle-an-array) |
@@ -774,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [322-coin-change](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/322-coin-change) |
 | [0338-counting-bits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0343-integer-break) |
 | [377-combination-sum-iv](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/377-combination-sum-iv) |
 | [392-is-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/392-is-subsequence) |
 | [0396-rotate-function](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0396-rotate-function) |
