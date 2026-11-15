@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [455-assign-cookies](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/455-assign-cookies) |
 | [0472-concatenated-words](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0485-max-consecutive-ones) |
 | [494-target-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/494-target-sum) |
 | [0495-teemo-attacking](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0495-teemo-attacking) |
 | [496-next-greater-element-i](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/496-next-greater-element-i) |
