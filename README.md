@@ -824,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [232-implement-queue-using-stacks](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/232-implement-queue-using-stacks) |
 | [234-palindrome-linked-list](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0341-flatten-nested-list-iterator](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0402-remove-k-digits) |
@@ -877,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0257-binary-tree-paths) |
 | [297-serialize-and-deserialize-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/297-serialize-and-deserialize-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0437-path-sum-iii) |
 | [450-delete-node-in-a-bst](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/450-delete-node-in-a-bst) |
@@ -930,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0257-binary-tree-paths) |
 | [297-serialize-and-deserialize-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/297-serialize-and-deserialize-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0404-sum-of-left-leaves) |
@@ -1178,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [232-implement-queue-using-stacks](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/232-implement-queue-using-stacks) |
 | [295-find-median-from-data-stream](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/295-find-median-from-data-stream) |
 | [297-serialize-and-deserialize-binary-tree](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/297-serialize-and-deserialize-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0384-shuffle-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0384-shuffle-an-array) |
 | [0676-implement-magic-dictionary](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0676-implement-magic-dictionary) |
 | [703-kth-largest-element-in-a-stream](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/703-kth-largest-element-in-a-stream) |
@@ -1327,6 +1331,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [225-implement-stack-using-queues](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/225-implement-stack-using-queues) |
 | [232-implement-queue-using-stacks](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/232-implement-queue-using-stacks) |
 | [239-sliding-window-maximum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [387-first-unique-character-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0933-number-of-recent-calls) |
@@ -1358,6 +1363,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [173-binary-search-tree-iterator](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/173-binary-search-tree-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Union-Find
 |  |
 | ------- |
