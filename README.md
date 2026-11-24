@@ -558,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0461-hamming-distance) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0397-integer-replacement](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0435-non-overlapping-intervals) |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [377-combination-sum-iv](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/377-combination-sum-iv) |
 | [392-is-subsequence](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/392-is-subsequence) |
 | [0396-rotate-function](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0397-integer-replacement) |
 | [416-partition-equal-subset-sum](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nailauiuxdesign/LeetCode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0466-count-the-repetitions](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0466-count-the-repetitions) |
@@ -1094,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [139-word-break](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/139-word-break) |
 | [0140-word-break-ii](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0397-integer-replacement](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Divide and Conquer
