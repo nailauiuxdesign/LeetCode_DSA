@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [387-first-unique-character-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0398-random-pick-index](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0409-longest-palindrome) |
 | [424-longest-repeating-character-replacement](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0382-linked-list-random-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0412-fizz-buzz) |
@@ -1422,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0382-linked-list-random-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0398-random-pick-index) |
 | [528-random-pick-with-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/528-random-pick-with-weight) |
 ## Ordered Set
 |  |
@@ -1533,6 +1536,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0398-random-pick-index) |
 ## Sqrt Decomposition
 |  |
 | ------- |
