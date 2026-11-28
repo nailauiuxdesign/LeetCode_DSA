@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0441-arranging-coins](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0492-construct-the-rectangle) |
 | [504-base-7](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/504-base-7) |
+| [0507-perfect-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0507-perfect-number) |
 | [0528-random-pick-with-weight](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/0528-random-pick-with-weight) |
 | [973-k-closest-points-to-origin](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/nailauiuxdesign/DSA_LeetCode/tree/master/1013-fibonacci-number) |
